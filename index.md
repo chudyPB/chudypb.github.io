@@ -17,8 +17,10 @@ Before: Penetration Tester (consultant and internal), network traffic analysis
     * [White paper](https://github.com/thezdi/presentations/blob/main/2023_Hexacon/whitepaper-net-deser.pdf)
 
 
+
 * **Defcamp 2021: Penetration Testing Management - Problems in Large Corporations**
     * [Video](https://www.youtube.com/watch?v=wOZN_sLUinA)
+
 
 
 * **Confidence 2018: Network Telescop Traffic Analysis**
