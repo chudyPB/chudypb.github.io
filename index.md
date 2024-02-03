@@ -10,6 +10,8 @@ Before: Penetration Tester (consultant and internal), network traffic analysis
 
 **Linkedin**: [piotr-bazydlo](https://pl.linkedin.com/in/piotr-bazydlo)
 
+<br />
+
 ## Selected Conference Talks
 
 ### Hexacon 2023: Exploiting Hardened .NET Deserialization: New Exploitation Ideas and Abuse of Insecure Serialization
@@ -17,12 +19,14 @@ Before: Penetration Tester (consultant and internal), network traffic analysis
 * [White paper](https://github.com/thezdi/presentations/blob/main/2023_Hexacon/whitepaper-net-deser.pdf)
 <br />
 
-### Defcamp 2021: Penetration Testing Management - Problems in Large Corporations
+### DefCamp 2021: Penetration Testing Management - Problems in Large Corporations
 * [Video](https://www.youtube.com/watch?v=wOZN_sLUinA)
 <br />
 
 ### Confidence 2018: Network Telescop Traffic Analysis
 * [Video](https://www.youtube.com/watch?v=gT1IZDdC4Qw)
+<br />
+
 <br />
 
 ## Blog posts
@@ -41,12 +45,15 @@ Before: Penetration Tester (consultant and internal), network traffic analysis
 
 [UNPATCHED POWERFUL SSRF IN EXCHANGE OWA – GETTING RESPONSE THROUGH ATTACHMENTS](https://www.zerodayinitiative.com/blog/2023/11/1/unpatched-powerful-ssrf-in-exchange-owa-getting-response-through-attachments)
 
+<br />
+
 ## Selected Achievements
 
 * 3rd at Pwn2Own Miami 2022: [results](https://www.zerodayinitiative.com/blog/2022/4/14/pwn2own-miami-2022-results)
 
 * Microsoft Most Valuable Researcher 2023, 4th at Office Category: [results](https://msrc.microsoft.com/blog/2023/08/congratulations-to-the-msrc-2023-most-valuable-security-researchers/)
 
+<br />
 
 ## Vulnerabilities (updated on 03 Feb, 2024)
 
