@@ -29,7 +29,7 @@ Before: Penetration Tester (consultant and internal), network traffic analysis
 
 <br />
 
-## Blog posts
+## Blog Posts
 
 [RIDING THE INFORAIL TO EXPLOIT IVANTI AVALANCHE: PART 1](https://www.zerodayinitiative.com/blog/2022/7/19/riding-the-inforail-to-exploit-ivanti-avalanche)
 
@@ -47,7 +47,7 @@ Before: Penetration Tester (consultant and internal), network traffic analysis
 
 <br />
 
-## Selected Achievements
+## Selected Achievements/Awards
 
 * 3rd at Pwn2Own Miami 2022: [results](https://www.zerodayinitiative.com/blog/2022/4/14/pwn2own-miami-2022-results)
 
@@ -55,7 +55,59 @@ Before: Penetration Tester (consultant and internal), network traffic analysis
 
 <br />
 
-## Vulnerabilities (updated on 03 Feb, 2024)
+## Selected Research Highlights
+
+* Microsoft Exchange vulnerabilities (17 CVEs), including 5 Remote Code Execution issues.
+
+* Remote Code Execution through serialization (CVE-2022-47504, CVE-2023-1139 and CVE-2023-1145).
+
+* .NET deserialization/serialization research and commits to ysoserial.net (5 new gadgets in main line + 3 plugins).
+
+* Entire SolarWinds Orion Platform (and its modules) research and deserialization issues in SolarWinds.
+
+* Ivanti Avalanche vulnerabilities in 3 different attack surfaces: web, custom protocol and low-level services (memory corruptions).
+
+* Research and abuse of custom deserializer implemented in Inductive Automation Ignition (Pwn2Own vulnerability).
+
+* Microsoft SharePoint: NTLM Relaying as SharePoint farm service account (CVE-2023-24950).
+
+* Vulnerabilities in Apache libraries (SSRF and RCE in Apache Batik + RCE in Apache ActiveMQ NMS).
+
+* One click RCE in MDaemon SMTP Server mail client (chain of 4 vulnerabilities) - exploited through email message.
+
+* Deserialization leading to Authentication Bypass (CVE-2023-1136).
+
+<br />
+
+## Demos
+
+* SSRF in Microsoft Exchange OWA: [link](https://www.youtube.com/watch?v=upN9OglF7I4)
+
+* Microsoft Exchange - Remote Code Execution (CVE-2023-32031): [link](https://www.youtube.com/watch?v=5UyX7Hp2q3Q)
+
+* SolarWinds Orion Platform - Remote Code Execution through Serialization: [link](https://www.youtube.com/watch?v=ZcOZNAmKR0c)
+
+* Inductive Automation Ignition - Remote Code Execution through custom deserialization: [link](https://www.youtube.com/watch?v=H8JR5nwEPRY)
+
+* Apache Batik - Remote Code Execution and SSRF: [link](https://www.youtube.com/watch?v=uDi-ZmMztDU)
+
+* Ivanti Avalanche - Race Condition leading to Authentication Bypass: [link](https://www.youtube.com/watch?v=_pnfn_sRvOY)
+
+* MDaemon SMTP Server - one click RCE (email message URL): [link](https://github.com/chudyPB/MDaemon-Advisories/blob/main/demo-mdaemon.mp4)
+
+<br />
+
+## Vulnerabilities (updated on 17 Feb, 2024)
+
+### CVE-2023-50395:	SolarWinds Orion Platform AppendUpdate SQL Injection Remote Code Execution Vulnerability
+
+	CVSS:8.8 AV:N/AC:L/PR:L/UI:N/S:U/C:H/I:H/A:H
+
+
+### CVE-2023-35188:	SolarWinds Orion Platform AppendCreatePrimary SQL Injection Remote Code Execution Vulnerability
+
+	CVSS:8.8 AV:N/AC:L/PR:L/UI:N/S:U/C:H/I:H/A:H
+
 
 ### CVE-2023-46804:	Ivanti Avalanche WLAvalancheService Integer Underflow Denial-of-Service Vulnerability
 
@@ -694,7 +746,7 @@ Before: Penetration Tester (consultant and internal), network traffic analysis
 
 ### CVE-2021-42128:	Ivanti Avalanche EnterpriseServer Service Exposed Dangerous Function Authentication Bypass Vulnerability
 
-	CVSS:7.5 AV:N/AC:L/PR:N/UI:N/S:U/C:H/I:N/A:N
+	CVSS:7.5 AV:N/AC:L/PR:N/UI:N/S:U/C:N/I:H/A:N
 
 
 ### CVE-2021-42127:	Ivanti Avalanche StatServer Service Deserialization of Untrusted Data Remote Code Execution Vulnerability
