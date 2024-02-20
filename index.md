@@ -53,6 +53,8 @@ Before: Penetration Tester (consultant and internal), network traffic analysis
 
 * Microsoft Most Valuable Researcher 2023, 4th at Office Category: [results](https://msrc.microsoft.com/blog/2023/08/congratulations-to-the-msrc-2023-most-valuable-security-researchers/)
 
+* 2nd best web research of 2023 in PortSwigger "Top 10 Web Hacking Techniques of 2023" - Exploiting Hardened .NET Deserialization: [results](https://portswigger.net/research/top-10-web-hacking-techniques-of-2023)
+
 <br />
 
 ## Selected Research Highlights
@@ -73,9 +75,9 @@ Before: Penetration Tester (consultant and internal), network traffic analysis
 
 * Vulnerabilities in Apache libraries (SSRF and RCE in Apache Batik + RCE in Apache ActiveMQ NMS).
 
-* One click RCE in MDaemon SMTP Server mail client (chain of 4 vulnerabilities) - exploited through email message.
-
 * Deserialization leading to Authentication Bypass (CVE-2023-1136).
+
+* One click RCE in MDaemon SMTP Server mail client (chain of 4 vulnerabilities) - exploited through email message.
 
 <br />
 
@@ -95,9 +97,7 @@ Before: Penetration Tester (consultant and internal), network traffic analysis
 
 * MDaemon SMTP Server - one click RCE (email message URL): [link](https://github.com/chudyPB/MDaemon-Advisories/blob/main/demo-mdaemon.mp4)
 
-<br />
-
-## Vulnerabilities (updated on 17 Feb, 2024)
+## Vulnerabilities (updated on 20 Feb, 2024)
 
 ### CVE-2023-50395:	SolarWinds Orion Platform AppendUpdate SQL Injection Remote Code Execution Vulnerability
 
@@ -877,5 +877,3 @@ Before: Penetration Tester (consultant and internal), network traffic analysis
 ### CVE-2020-6299:	SAP Netweaver Exposed Dangerous Method Information Disclosure Vulnerability
 
 	CVSS:4.3 AV:N/AC:L/PR:L/UI:N/S:U/C:L/I:N/A:N
-
-
