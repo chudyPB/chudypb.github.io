@@ -97,7 +97,152 @@ Before: Penetration Tester (consultant and internal), network traffic analysis
 
 * MDaemon SMTP Server - one click RCE (email message URL): [link](https://github.com/chudyPB/MDaemon-Advisories/blob/main/demo-mdaemon.mp4)
 
-## Vulnerabilities (updated on 20 Feb, 2024)
+## Vulnerabilities (updated on 23 Apr, 2024)
+
+### CVE-2024-27984:	Ivanti Avalanche WLInfoRailService DELKEY Directory Traversal Arbitrary File Deletion Vulnerability
+
+	CVSS:7.1 AV:N/AC:L/PR:L/UI:N/S:U/C:N/I:L/A:H
+
+
+### CVE-2024-27978:	Ivanti Avalanche WLAvalancheService Null Pointer Dereference Denial-of-Service Vulnerability
+
+	CVSS:6.5 AV:N/AC:L/PR:L/UI:N/S:U/C:N/I:N/A:H
+
+
+### CVE-2024-27977:	Ivanti Avalanche WLAvalancheService Directory Traversal Arbitrary File Deletion Vulnerability
+
+	CVSS:7.1 AV:N/AC:L/PR:L/UI:N/S:U/C:N/I:L/A:H
+
+
+### CVE-2024-27976:	Ivanti Avalanche WLAvalancheService Directory Traversal Remote Code Execution Vulnerability
+
+	CVSS:8.8 AV:N/AC:L/PR:L/UI:N/S:U/C:H/I:H/A:H
+
+
+### CVE-2024-27975:	Ivanti Avalanche WLAvalancheService Use-After-Free Remote Code Execution Vulnerability
+
+	CVSS:8.8 AV:N/AC:L/PR:L/UI:N/S:U/C:H/I:H/A:H
+
+
+### CVE-2024-25000:	Ivanti Avalanche WLAvalancheService Directory Traversal Remote Code Execution Vulnerability
+
+	CVSS:8.8 AV:N/AC:L/PR:L/UI:N/S:U/C:H/I:H/A:H
+
+
+### CVE-2024-24999:	Ivanti Avalanche WLAvalancheService Directory Traversal Remote Code Execution Vulnerability
+
+	CVSS:8.8 AV:N/AC:L/PR:L/UI:N/S:U/C:H/I:H/A:H
+
+
+### CVE-2024-24998:	Ivanti Avalanche WLAvalancheService Directory Traversal Remote Code Execution Vulnerability
+
+	CVSS:8.8 AV:N/AC:L/PR:L/UI:N/S:U/C:H/I:H/A:H
+
+
+### CVE-2024-24997:	Ivanti Avalanche WLAvalancheService Directory Traversal Remote Code Execution Vulnerability
+
+	CVSS:8.8 AV:N/AC:L/PR:L/UI:N/S:U/C:H/I:H/A:H
+
+
+### CVE-2024-24996:	Ivanti Avalanche WLInfoRailService Heap-based Buffer Overflow Remote Code Execution Vulnerability
+
+	CVSS:9.8 AV:N/AC:L/PR:N/UI:N/S:U/C:H/I:H/A:H
+
+
+### CVE-2024-24995:	Ivanti Avalanche doInTransaction Time-Of-Check Time-Of-Use Remote Code Execution Vulnerability
+
+	CVSS:8.8 AV:N/AC:L/PR:L/UI:N/S:U/C:H/I:H/A:H
+
+
+### CVE-2024-24994:	Ivanti Avalanche extractZipEntry Directory Traversal Remote Code Execution Vulnerability
+
+	CVSS:8.8 AV:N/AC:L/PR:L/UI:N/S:U/C:H/I:H/A:H
+
+
+### CVE-2024-24993:	Ivanti Avalanche InstallPackageThread Time-Of-Check Time-Of-Use Remote Code Execution Vulnerability
+
+	CVSS:8.8 AV:N/AC:L/PR:L/UI:N/S:U/C:H/I:H/A:H
+
+
+### CVE-2024-24992:	Ivanti Avalanche getAdhocFilePath Directory Traversal Remote Code Execution Vulnerability
+
+	CVSS:8.8 AV:N/AC:L/PR:L/UI:N/S:U/C:H/I:H/A:H
+
+
+### CVE-2024-24991:	Ivanti Avalanche WLAvalancheService Null Pointer Dereference Denial-of-Service Vulnerability
+
+	CVSS:6.5 AV:N/AC:L/PR:L/UI:N/S:U/C:N/I:N/A:H
+
+
+### CVE-2024-23535:	Ivanti Avalanche copyFile Directory Traversal Remote Code Execution Vulnerability
+
+	CVSS:8.8 AV:N/AC:L/PR:L/UI:N/S:U/C:H/I:H/A:H
+
+
+### CVE-2024-23534:	Ivanti Avalanche getMasterAdhocCollectionsPath Unrestricted File Upload Remote Code Execution Vulnerability
+
+	CVSS:8.8 AV:N/AC:L/PR:L/UI:N/S:U/C:H/I:H/A:H
+
+
+### CVE-2024-23532:	Ivanti Avalanche WLAvalancheService Out-Of-Bounds Read Remote Code Execution Vulnerability
+
+	CVSS:7.5 AV:N/AC:H/PR:L/UI:N/S:U/C:H/I:H/A:H
+
+
+### CVE-2024-23533:	Ivanti Avalanche WLAvalancheService Out-Of-Bounds Read Information Disclosure Vulnerability
+
+	CVSS:4.3 AV:N/AC:L/PR:L/UI:N/S:U/C:L/I:N/A:N
+
+
+### CVE-2024-23531:	Ivanti Avalanche WLInfoRailService Integer Overflow Information Disclosure Vulnerability
+
+	CVSS:7.5 AV:N/AC:L/PR:N/UI:N/S:U/C:N/I:N/A:H
+
+
+### CVE-2024-23530:	Ivanti Avalanche WLAvalancheService Out-Of-Bounds Read Information Disclosure Vulnerability
+
+	CVSS:5.3 AV:N/AC:L/PR:N/UI:N/S:U/C:L/I:N/A:N
+
+
+### CVE-2024-23529:	Ivanti Avalanche WLAvalancheService Out-Of-Bounds Read Information Disclosure Vulnerability
+
+	CVSS:5.3 AV:N/AC:L/PR:N/UI:N/S:U/C:L/I:N/A:N
+
+
+### CVE-2024-23528:	Ivanti Avalanche WLAvalancheService Out-Of-Bounds Read Information Disclosure Vulnerability
+
+	CVSS:5.3 AV:N/AC:L/PR:N/UI:N/S:U/C:L/I:N/A:N
+
+
+### CVE-2024-23527:	Ivanti Avalanche WLAvalancheService Out-Of-Bounds Read Information Disclosure Vulnerability
+
+	CVSS:5.3 AV:N/AC:L/PR:N/UI:N/S:U/C:L/I:N/A:N
+
+
+### CVE-2024-23526:	Ivanti Avalanche WLAvalancheService Out-Of-Bounds Read Information Disclosure Vulnerability
+
+	CVSS:5.3 AV:N/AC:L/PR:N/UI:N/S:U/C:L/I:N/A:N
+
+
+### CVE-2024-22061:	Ivanti Avalanche WLInfoRailService Heap-based Buffer Overflow Remote Code Execution Vulnerability
+
+	CVSS:8.1 AV:N/AC:H/PR:N/UI:N/S:U/C:H/I:H/A:H
+
+
+### CVE-2024-23478:	SolarWinds Access Rights Manager JsonSerializationBinder Deserialization of Untrusted Data Remote Code Execution Vulnerability
+
+	CVSS:9.9 AV:N/AC:L/PR:L/UI:N/S:C/C:H/I:H/A:H
+
+
+### CVE-2023-50233:	Inductive Automation Ignition getJavaExecutable Directory Traversal Remote Code Execution Vulnerability
+
+	CVSS:8.8 AV:N/AC:L/PR:N/UI:R/S:U/C:H/I:H/A:H
+
+
+### CVE-2023-50232:	Inductive Automation Ignition getParams Argument Injection Remote Code Execution Vulnerability
+
+	CVSS:8.8 AV:N/AC:L/PR:N/UI:R/S:U/C:H/I:H/A:H
+
 
 ### CVE-2023-50395:	SolarWinds Orion Platform AppendUpdate SQL Injection Remote Code Execution Vulnerability
 
@@ -877,3 +1022,5 @@ Before: Penetration Tester (consultant and internal), network traffic analysis
 ### CVE-2020-6299:	SAP Netweaver Exposed Dangerous Method Information Disclosure Vulnerability
 
 	CVSS:4.3 AV:N/AC:L/PR:L/UI:N/S:U/C:L/I:N/A:N
+
+
