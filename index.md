@@ -16,7 +16,7 @@ Before: Penetration Tester (consultant and internal), network traffic analysis
 
 
 ### OffensiveCon 2024: Half Measures and Full Compromise: Exploiting Microsoft Exchange PowerShell Remoting
-* Video - soons
+* Video - soon
 
 ### Hexacon 2023: Exploiting Hardened .NET Deserialization: New Exploitation Ideas and Abuse of Insecure Serialization
 * [Video](https://www.youtube.com/watch?v=_CJmUh0_uOM)
