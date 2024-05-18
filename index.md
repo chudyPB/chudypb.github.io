@@ -14,6 +14,10 @@ Before: Penetration Tester (consultant and internal), network traffic analysis
 
 ## Selected Conference Talks
 
+
+### OffensiveCon 2024: Half Measures and Full Compromise: Exploiting Microsoft Exchange PowerShell Remoting
+* Video - soons
+
 ### Hexacon 2023: Exploiting Hardened .NET Deserialization: New Exploitation Ideas and Abuse of Insecure Serialization
 * [Video](https://www.youtube.com/watch?v=_CJmUh0_uOM)
 * [White paper](https://github.com/thezdi/presentations/blob/main/2023_Hexacon/whitepaper-net-deser.pdf)
@@ -71,7 +75,7 @@ Before: Penetration Tester (consultant and internal), network traffic analysis
 
 * Research and abuse of custom deserializer implemented in Inductive Automation Ignition (Pwn2Own vulnerability).
 
-* Microsoft SharePoint: NTLM Relaying as SharePoint farm service account (CVE-2023-24950).
+* Microsoft SharePoint: several vulnerabilities, including XXE->File Read (CVE-2024-30043).
 
 * Vulnerabilities in Apache libraries (SSRF and RCE in Apache Batik + RCE in Apache ActiveMQ NMS).
 
@@ -97,7 +101,27 @@ Before: Penetration Tester (consultant and internal), network traffic analysis
 
 * MDaemon SMTP Server - one click RCE (email message URL): [link](https://github.com/chudyPB/MDaemon-Advisories/blob/main/demo-mdaemon.mp4)
 
-## Vulnerabilities (updated on 23 Apr, 2024)
+## Vulnerabilities (updated on 18 May, 2024)
+
+### CVE-2024-28075:	SolarWinds Access Rights Manager JsonSerializationBinder Deserialization of Untrusted Data Remote Code Execution Vulnerability
+
+	CVSS:9.9 AV:N/AC:L/PR:L/UI:N/S:C/C:H/I:H/A:H
+
+
+### CVE-2024-23473:	SolarWinds Access Rights Manager Hard-Coded Credentials Authentication Bypass Vulnerability
+
+	CVSS:8.6 AV:N/AC:L/PR:N/UI:N/S:U/C:H/I:L/A:L
+
+
+### CVE-2024-30043:	Microsoft SharePoint BaseXmlDataSource XML External Entity Processing Information Disclosure Vulnerability
+
+	CVSS:7.1 AV:N/AC:L/PR:L/UI:N/S:U/C:H/I:L/A:N
+
+
+### ZDI-24-447:	(0Day) D-Link D-View Use of Hard-coded Cryptographic Key Authentication Bypass Vulnerability
+
+	CVSS:9.8 AV:N/AC:L/PR:N/UI:N/S:U/C:H/I:H/A:H
+
 
 ### CVE-2024-27984:	Ivanti Avalanche WLInfoRailService DELKEY Directory Traversal Arbitrary File Deletion Vulnerability
 
