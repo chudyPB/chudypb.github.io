@@ -15,19 +15,19 @@ Before: Penetration Tester (consultant and internal), network traffic analysis
 ## Selected Conference Talks
 
 
-### OffensiveCon 2024: Half Measures and Full Compromise: Exploiting Microsoft Exchange PowerShell Remoting
+### OffensiveCon 2024 - Half Measures and Full Compromise: Exploiting Microsoft Exchange PowerShell Remoting
 * Video - soon
 
-### Hexacon 2023: Exploiting Hardened .NET Deserialization: New Exploitation Ideas and Abuse of Insecure Serialization
+### Hexacon 2023 - Exploiting Hardened .NET Deserialization: New Exploitation Ideas and Abuse of Insecure Serialization
 * [Video](https://www.youtube.com/watch?v=_CJmUh0_uOM)
 * [White paper](https://github.com/thezdi/presentations/blob/main/2023_Hexacon/whitepaper-net-deser.pdf)
 <br />
 
-### DefCamp 2021: Penetration Testing Management - Problems in Large Corporations
+### DefCamp 2021 - Penetration Testing Management - Problems in Large Corporations
 * [Video](https://www.youtube.com/watch?v=wOZN_sLUinA)
 <br />
 
-### Confidence 2018: Network Telescop Traffic Analysis
+### Confidence 2018 - Network Telescop Traffic Analysis
 * [Video](https://www.youtube.com/watch?v=gT1IZDdC4Qw)
 <br />
 
@@ -48,6 +48,8 @@ Before: Penetration Tester (consultant and internal), network traffic analysis
 [FINDING DESERIALIZATION BUGS IN THE SOLARWINDS PLATFORM](https://www.zerodayinitiative.com/blog/2023/9/21/finding-deserialization-bugs-in-the-solarwind-platform)
 
 [UNPATCHED POWERFUL SSRF IN EXCHANGE OWA – GETTING RESPONSE THROUGH ATTACHMENTS](https://www.zerodayinitiative.com/blog/2023/11/1/unpatched-powerful-ssrf-in-exchange-owa-getting-response-through-attachments)
+
+[CVE-2024-30043: ABUSING URL PARSING CONFUSION TO EXPLOIT XXE ON SHAREPOINT SERVER AND CLOUD](https://www.zerodayinitiative.com/blog/2024/5/29/cve-2024-30043-abusing-url-parsing-confusion-to-exploit-xxe-on-sharepoint-server-and-cloud)
 
 <br />
 
@@ -87,6 +89,8 @@ Before: Penetration Tester (consultant and internal), network traffic analysis
 
 ## Demos
 
+* XXE in SharePoint through URL parsing confusion (CVE-2024-30043): [link](https://www.youtube.com/watch?v=_kmq1VMs00c)
+
 * SSRF in Microsoft Exchange OWA: [link](https://www.youtube.com/watch?v=upN9OglF7I4)
 
 * Microsoft Exchange - Remote Code Execution (CVE-2023-32031): [link](https://www.youtube.com/watch?v=5UyX7Hp2q3Q)
@@ -101,7 +105,12 @@ Before: Penetration Tester (consultant and internal), network traffic analysis
 
 * MDaemon SMTP Server - one click RCE (email message URL): [link](https://github.com/chudyPB/MDaemon-Advisories/blob/main/demo-mdaemon.mp4)
 
-## Vulnerabilities (updated on 18 May, 2024)
+## Vulnerabilities (updated on 01 Jun, 2024)
+
+### CVE-2024-5247:	NETGEAR ProSAFE Network Management System UpLoadServlet Unrestricted File Upload Remote Code Execution Vulnerability
+
+	CVSS:8.8 AV:N/AC:L/PR:L/UI:N/S:U/C:H/I:H/A:H
+
 
 ### CVE-2024-28075:	SolarWinds Access Rights Manager JsonSerializationBinder Deserialization of Untrusted Data Remote Code Execution Vulnerability
 
@@ -118,7 +127,7 @@ Before: Penetration Tester (consultant and internal), network traffic analysis
 	CVSS:7.1 AV:N/AC:L/PR:L/UI:N/S:U/C:H/I:L/A:N
 
 
-### ZDI-24-447:	(0Day) D-Link D-View Use of Hard-coded Cryptographic Key Authentication Bypass Vulnerability
+### CVE-2024-5296:	(0Day) D-Link D-View Use of Hard-coded Cryptographic Key Authentication Bypass Vulnerability
 
 	CVSS:9.8 AV:N/AC:L/PR:N/UI:N/S:U/C:H/I:H/A:H
 
