@@ -14,9 +14,11 @@ Before: Penetration Tester (consultant and internal), network traffic analysis
 
 ## Selected Conference Talks
 
+### WarCon 2024 - Avalanche of Pwns for Ivanti Avalanche
+* Slides - soon
 
 ### OffensiveCon 2024 - Half Measures and Full Compromise: Exploiting Microsoft Exchange PowerShell Remoting
-* Video - soon
+* [Video](https://www.youtube.com/watch?v=AxNO2iA2fAg)
 
 ### Hexacon 2023 - Exploiting Hardened .NET Deserialization: New Exploitation Ideas and Abuse of Insecure Serialization
 * [Video](https://www.youtube.com/watch?v=_CJmUh0_uOM)
@@ -105,7 +107,7 @@ Before: Penetration Tester (consultant and internal), network traffic analysis
 
 * MDaemon SMTP Server - one click RCE (email message URL): [link](https://github.com/chudyPB/MDaemon-Advisories/blob/main/demo-mdaemon.mp4)
 
-## Vulnerabilities (updated on 01 Jun, 2024)
+## Vulnerabilities (updated on 23 Jun, 2024)
 
 ### CVE-2024-5247:	NETGEAR ProSAFE Network Management System UpLoadServlet Unrestricted File Upload Remote Code Execution Vulnerability
 
