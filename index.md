@@ -107,7 +107,52 @@ Before: Penetration Tester (consultant and internal), network traffic analysis
 
 * MDaemon SMTP Server - one click RCE (email message URL): [link](https://github.com/chudyPB/MDaemon-Advisories/blob/main/demo-mdaemon.mp4)
 
-## Vulnerabilities (updated on 23 Jun, 2024)
+## Vulnerabilities (updated on 22 Jul, 2024)
+
+### CVE-2024-23475:	SolarWinds Access Rights Manager AddReportResult Directory Traversal Arbitrary File Deletion and Information Disclosure Vulnerability
+
+	CVSS:10.0 AV:N/AC:L/PR:N/UI:N/S:C/C:H/I:L/A:H
+
+
+### CVE-2024-23472:	SolarWinds Access Rights Manager AddGeneratedReport Directory Traversal Arbitrary File Deletion and Information Disclosure Vulnerability
+
+	CVSS:10.0 AV:N/AC:L/PR:N/UI:N/S:C/C:H/I:L/A:H
+
+
+### CVE-2024-23474:	SolarWinds Access Rights Manager deleteTransferFile Directory Traversal Arbitrary File Deletion and Information Disclosure Vulnerability
+
+	CVSS:8.6 AV:N/AC:L/PR:N/UI:N/S:U/C:L/I:L/A:H
+
+
+### CVE-2024-23468:	SolarWinds Access Rights Manager deleteTransferFile Directory Traversal Arbitrary File Deletion and Information Disclosure Vulnerability
+
+	CVSS:8.6 AV:N/AC:L/PR:N/UI:N/S:U/C:L/I:L/A:H
+
+
+### CVE-2024-23469:	SolarWinds Access Rights Manager EndUpdate Exposed Dangerous Method Remote Code Execution Vulnerability
+
+	CVSS:10.0 AV:N/AC:L/PR:N/UI:N/S:C/C:H/I:H/A:H
+
+
+### CVE-2024-23465:	SolarWinds Access Rights Manager ChangeHumster Exposed Dangerous Method Authentication Bypass Vulnerability
+
+	CVSS:9.0 AV:N/AC:H/PR:N/UI:N/S:C/C:H/I:H/A:H
+
+
+### CVE-2024-28992:	SolarWinds Access Rights Manager deleteTransferFile Directory Traversal Arbitrary File Deletion and Information Disclosure Vulnerability
+
+	CVSS:8.6 AV:N/AC:L/PR:N/UI:N/S:U/C:L/I:L/A:H
+
+
+### CVE-2024-6814:	NETGEAR ProSAFE Network Management System getFilterString SQL Injection Remote Code Execution Vulnerability
+
+	CVSS:8.8 AV:N/AC:L/PR:L/UI:N/S:U/C:H/I:H/A:H
+
+
+### CVE-2024-5296:	(0Day) D-Link D-View Use of Hard-coded Cryptographic Key Authentication Bypass Vulnerability
+
+	CVSS:9.8 AV:N/AC:L/PR:N/UI:N/S:U/C:H/I:H/A:H
+
 
 ### CVE-2024-5247:	NETGEAR ProSAFE Network Management System UpLoadServlet Unrestricted File Upload Remote Code Execution Vulnerability
 
@@ -127,11 +172,6 @@ Before: Penetration Tester (consultant and internal), network traffic analysis
 ### CVE-2024-30043:	Microsoft SharePoint BaseXmlDataSource XML External Entity Processing Information Disclosure Vulnerability
 
 	CVSS:7.1 AV:N/AC:L/PR:L/UI:N/S:U/C:H/I:L/A:N
-
-
-### CVE-2024-5296:	(0Day) D-Link D-View Use of Hard-coded Cryptographic Key Authentication Bypass Vulnerability
-
-	CVSS:9.8 AV:N/AC:L/PR:N/UI:N/S:U/C:H/I:H/A:H
 
 
 ### CVE-2024-27984:	Ivanti Avalanche WLInfoRailService DELKEY Directory Traversal Arbitrary File Deletion Vulnerability
