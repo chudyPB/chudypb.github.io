@@ -57,9 +57,11 @@ Before: Penetration Tester (consultant and internal), network traffic analysis
 
 ## Selected Achievements/Awards
 
+* Pwnie 2024 finalist in Best RCE category - "Chain of 3 Vulnerabilities to Pwn Exchange"
+
 * 3rd at Pwn2Own Miami 2022: [results](https://www.zerodayinitiative.com/blog/2022/4/14/pwn2own-miami-2022-results)
 
-* Microsoft Most Valuable Researcher 2023, 4th at Office Category: [results](https://msrc.microsoft.com/blog/2023/08/congratulations-to-the-msrc-2023-most-valuable-security-researchers/)
+* Microsoft Most Valuable Researcher 2023, 2024: [results-2023](https://msrc.microsoft.com/blog/2023/08/congratulations-to-the-msrc-2023-most-valuable-security-researchers/) [results-2024](https://msrc.microsoft.com/blog/2024/08/congratulations-to-the-msrc-2024-most-valuable-security-researchers/)
 
 * 2nd best web research of 2023 in PortSwigger "Top 10 Web Hacking Techniques of 2023" - Exploiting Hardened .NET Deserialization: [results](https://portswigger.net/research/top-10-web-hacking-techniques-of-2023)
 
@@ -107,7 +109,12 @@ Before: Penetration Tester (consultant and internal), network traffic analysis
 
 * MDaemon SMTP Server - one click RCE (email message URL): [link](https://github.com/chudyPB/MDaemon-Advisories/blob/main/demo-mdaemon.mp4)
 
-## Vulnerabilities (updated on 22 Jul, 2024)
+## Vulnerabilities (updated on 07 Aug, 2024)
+
+### CVE-2024-28992:	SolarWinds Access Rights Manager deleteTransferFile Directory Traversal Arbitrary File Deletion and Information Disclosure Vulnerability
+
+	CVSS:8.6 AV:N/AC:L/PR:N/UI:N/S:U/C:L/I:L/A:H
+
 
 ### CVE-2024-23475:	SolarWinds Access Rights Manager AddReportResult Directory Traversal Arbitrary File Deletion and Information Disclosure Vulnerability
 
@@ -137,11 +144,6 @@ Before: Penetration Tester (consultant and internal), network traffic analysis
 ### CVE-2024-23465:	SolarWinds Access Rights Manager ChangeHumster Exposed Dangerous Method Authentication Bypass Vulnerability
 
 	CVSS:9.0 AV:N/AC:H/PR:N/UI:N/S:C/C:H/I:H/A:H
-
-
-### CVE-2024-28992:	SolarWinds Access Rights Manager deleteTransferFile Directory Traversal Arbitrary File Deletion and Information Disclosure Vulnerability
-
-	CVSS:8.6 AV:N/AC:L/PR:N/UI:N/S:U/C:L/I:L/A:H
 
 
 ### CVE-2024-6814:	NETGEAR ProSAFE Network Management System getFilterString SQL Injection Remote Code Execution Vulnerability
