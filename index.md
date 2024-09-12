@@ -53,6 +53,10 @@ Before: Penetration Tester (consultant and internal), network traffic analysis
 
 [CVE-2024-30043: ABUSING URL PARSING CONFUSION TO EXPLOIT XXE ON SHAREPOINT SERVER AND CLOUD](https://www.zerodayinitiative.com/blog/2024/5/29/cve-2024-30043-abusing-url-parsing-confusion-to-exploit-xxe-on-sharepoint-server-and-cloud)
 
+[EXPLOITING EXCHANGE POWERSHELL AFTER PROXYNOTSHELL: PART 1 - MULTIVALUEDPROPERTY](https://www.zerodayinitiative.com/blog/2024/9/4/exploiting-exchange-powershell-after-proxynotshell-part-1-multivaluedproperty)
+
+[EXPLOITING EXCHANGE POWERSHELL AFTER PROXYNOTSHELL: PART 2 - APPROVEDAPPLICATIONCOLLECTION](https://www.zerodayinitiative.com/blog/2024/9/11/exploiting-exchange-powershell-after-proxynotshell-part-2-approvedapplicationcollection)
+
 <br />
 
 ## Selected Achievements/Awards
@@ -71,6 +75,8 @@ Before: Penetration Tester (consultant and internal), network traffic analysis
 
 * Microsoft Exchange vulnerabilities (17 CVEs), including 5 Remote Code Execution issues.
 
+* Microsoft SharePoint: several vulnerabilities, including RCE (CVE-2024-38018).
+
 * Remote Code Execution through serialization (CVE-2022-47504, CVE-2023-1139 and CVE-2023-1145).
 
 * .NET deserialization/serialization research and commits to ysoserial.net (5 new gadgets in main line + 3 plugins).
@@ -81,8 +87,6 @@ Before: Penetration Tester (consultant and internal), network traffic analysis
 
 * Research and abuse of custom deserializer implemented in Inductive Automation Ignition (Pwn2Own vulnerability).
 
-* Microsoft SharePoint: several vulnerabilities, including XXE->File Read (CVE-2024-30043).
-
 * Vulnerabilities in Apache libraries (SSRF and RCE in Apache Batik + RCE in Apache ActiveMQ NMS).
 
 * Deserialization leading to Authentication Bypass (CVE-2023-1136).
@@ -91,23 +95,6 @@ Before: Penetration Tester (consultant and internal), network traffic analysis
 
 <br />
 
-## Demos
-
-* XXE in SharePoint through URL parsing confusion (CVE-2024-30043): [link](https://www.youtube.com/watch?v=_kmq1VMs00c)
-
-* SSRF in Microsoft Exchange OWA: [link](https://www.youtube.com/watch?v=upN9OglF7I4)
-
-* Microsoft Exchange - Remote Code Execution (CVE-2023-32031): [link](https://www.youtube.com/watch?v=5UyX7Hp2q3Q)
-
-* SolarWinds Orion Platform - Remote Code Execution through Serialization: [link](https://www.youtube.com/watch?v=ZcOZNAmKR0c)
-
-* Inductive Automation Ignition - Remote Code Execution through custom deserialization: [link](https://www.youtube.com/watch?v=H8JR5nwEPRY)
-
-* Apache Batik - Remote Code Execution and SSRF: [link](https://www.youtube.com/watch?v=uDi-ZmMztDU)
-
-* Ivanti Avalanche - Race Condition leading to Authentication Bypass: [link](https://www.youtube.com/watch?v=_pnfn_sRvOY)
-
-* MDaemon SMTP Server - one click RCE (email message URL): [link](https://github.com/chudyPB/MDaemon-Advisories/blob/main/demo-mdaemon.mp4)
 
 ## Vulnerabilities (updated on 07 Aug, 2024)
 
