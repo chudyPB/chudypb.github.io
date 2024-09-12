@@ -95,8 +95,17 @@ Before: Penetration Tester (consultant and internal), network traffic analysis
 
 <br />
 
+## Vulnerabilities (updated on 12 Sep, 2024)
 
-## Vulnerabilities (updated on 07 Aug, 2024)
+### CVE-2024-43466:	Microsoft SharePoint SPAutoSerializingObject Deserialization of Untrusted Data Denial-of-Service Vulnerability
+
+	CVSS:6.5 AV:N/AC:L/PR:L/UI:N/S:U/C:N/I:N/A:H
+
+
+### CVE-2024-38018:	Microsoft SharePoint SPThemes Deserialization of Untrusted Data Remote Code Execution Vulnerability
+
+	CVSS:8.8 AV:N/AC:L/PR:L/UI:N/S:U/C:H/I:H/A:H
+
 
 ### CVE-2024-28992:	SolarWinds Access Rights Manager deleteTransferFile Directory Traversal Arbitrary File Deletion and Information Disclosure Vulnerability
 
