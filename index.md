@@ -57,6 +57,8 @@ Before: Penetration Tester (consultant and internal), network traffic analysis
 
 [EXPLOITING EXCHANGE POWERSHELL AFTER PROXYNOTSHELL: PART 2 - APPROVEDAPPLICATIONCOLLECTION](https://www.zerodayinitiative.com/blog/2024/9/11/exploiting-exchange-powershell-after-proxynotshell-part-2-approvedapplicationcollection)
 
+[EXPLOITING EXCHANGE POWERSHELL AFTER PROXYNOTSHELL: PART 3 – DLL LOADING CHAIN FOR RCE](https://www.zerodayinitiative.com/blog/2024/9/18/exploiting-exchange-powershell-after-proxynotshell-part-3-dll-loading-chain-for-rce)
+
 <br />
 
 ## Selected Achievements/Awards
@@ -95,7 +97,17 @@ Before: Penetration Tester (consultant and internal), network traffic analysis
 
 <br />
 
-## Vulnerabilities (updated on 12 Sep, 2024)
+## Vulnerabilities (updated on 21 Sep, 2024)
+
+### CVE-2024-28990:	SolarWinds Access Rights Manager Hard-Coded Credentials Authentication Bypass Vulnerability
+
+	CVSS:7.3 AV:N/AC:L/PR:N/UI:N/S:U/C:L/I:L/A:L
+
+
+### CVE-2024-28991:	SolarWinds Access Rights Manager JsonSerializationBinder Deserialization of Untrusted Data Remote Code Execution Vulnerability
+
+	CVSS:9.9 AV:N/AC:L/PR:L/UI:N/S:C/C:H/I:H/A:H
+
 
 ### CVE-2024-43466:	Microsoft SharePoint SPAutoSerializingObject Deserialization of Untrusted Data Denial-of-Service Vulnerability
 
