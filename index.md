@@ -59,6 +59,8 @@ Before: Penetration Tester (consultant and internal), network traffic analysis
 
 [EXPLOITING EXCHANGE POWERSHELL AFTER PROXYNOTSHELL: PART 3 – DLL LOADING CHAIN FOR RCE](https://www.zerodayinitiative.com/blog/2024/9/18/exploiting-exchange-powershell-after-proxynotshell-part-3-dll-loading-chain-for-rce)
 
+[EXPLOITING EXCHANGE POWERSHELL AFTER PROXYNOTSHELL: PART 4 – NO ARGUMENT CONSTRUCTOR](https://www.zerodayinitiative.com/blog/2024/9/25/exploiting-exchange-powershell-after-proxynotshell-part-4-no-argument-constructor)
+
 <br />
 
 ## Selected Achievements/Awards
@@ -85,7 +87,7 @@ Before: Penetration Tester (consultant and internal), network traffic analysis
 
 * Entire SolarWinds Orion Platform (and its modules) research and deserialization issues in SolarWinds.
 
-* Ivanti Avalanche vulnerabilities in 3 different attack surfaces: web, custom protocol and low-level services (memory corruptions).
+* Ivanti Avalanche vulnerabilities in 3 different attack surfaces: web, custom network protocol and low-level services (memory corruptions).
 
 * Research and abuse of custom deserializer implemented in Inductive Automation Ignition (Pwn2Own vulnerability).
 
@@ -97,7 +99,7 @@ Before: Penetration Tester (consultant and internal), network traffic analysis
 
 <br />
 
-## Vulnerabilities (updated on 21 Sep, 2024)
+## Vulnerabilities (updated on 28 Sep, 2024)
 
 ### CVE-2024-28990:	SolarWinds Access Rights Manager Hard-Coded Credentials Authentication Bypass Vulnerability
 
