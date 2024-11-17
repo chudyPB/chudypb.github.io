@@ -99,7 +99,12 @@ Before: Penetration Tester (consultant and internal), network traffic analysis
 
 <br />
 
-## Vulnerabilities (updated on 28 Sep, 2024)
+## Vulnerabilities (updated on 17 Nov, 2024)
+
+### CVE-2024-50330:	Ivanti Endpoint Manager GetComputerID SQL Injection Remote Code Execution Vulnerability
+
+	CVSS:9.8 AV:N/AC:L/PR:N/UI:N/S:U/C:H/I:H/A:H
+
 
 ### CVE-2024-28990:	SolarWinds Access Rights Manager Hard-Coded Credentials Authentication Bypass Vulnerability
 
@@ -786,9 +791,9 @@ Before: Penetration Tester (consultant and internal), network traffic analysis
 	CVSS:7.8 AV:L/AC:L/PR:L/UI:N/S:U/C:H/I:H/A:H
 
 
-### CVE-2023-21745:	Microsoft Exchange PowerShell Unsafe Reflection Information Disclosure Vulnerability
+### CVE-2023-21745:	Microsoft Exchange PowerShell Unsafe Reflection NTLM Relay Vulnerability
 
-	CVSS:4.3 AV:N/AC:L/PR:L/UI:N/S:U/C:L/I:N/A:N
+	CVSS:8.8 AV:N/AC:L/PR:L/UI:N/S:U/C:H/I:H/A:H
 
 
 ### CVE-2022-36964:	SolarWinds Network Performance Monitor DeserializeFromStrippedXml Deserialization of Untrusted Data Remote Code Execution Vulnerability
@@ -821,19 +826,9 @@ Before: Penetration Tester (consultant and internal), network traffic analysis
 	CVSS:7.2 AV:N/AC:L/PR:H/UI:N/S:U/C:H/I:H/A:H
 
 
-### CVE-2022-41079:	Microsoft Exchange SerializationTypeConverter Deserialization of Untrusted Data Information Disclosure Vulnerability
-
-	CVSS:4.3 AV:N/AC:L/PR:L/UI:N/S:U/C:L/I:N/A:N
-
-
 ### CVE-2022-41123:	Microsoft Exchange GetTorusCmdletConfigurationEntries Uncontrolled Search Path Element Local Privilege Escalation Vulnerability
 
 	CVSS:7.0 AV:L/AC:H/PR:L/UI:N/S:U/C:H/I:H/A:H
-
-
-### CVE-2022-41078:	Microsoft Exchange ApprovedApplication Exposed Dangerous Function Information Disclosure Vulnerability
-
-	CVSS:4.3 AV:N/AC:L/PR:L/UI:N/S:U/C:L/I:N/A:N
 
 
 ### CVE-2022-40773:	ManageEngine ServiceDesk Plus MSP exportMickeyList Improper Input Validation Privilege Escalation Vulnerability
@@ -867,6 +862,16 @@ Before: Penetration Tester (consultant and internal), network traffic analysis
 
 
 ### CVE-2022-36961:	SolarWinds Network Performance Monitor UpdateActionsDescriptions SQL Injection Privilege Escalation Vulnerability
+
+	CVSS:8.8 AV:N/AC:L/PR:L/UI:N/S:U/C:H/I:H/A:H
+
+
+### CVE-2022-41079:	Microsoft Exchange SerializationTypeConverter Deserialization of Untrusted Data NTLM Relay Vulnerability
+
+	CVSS:8.8 AV:N/AC:L/PR:L/UI:N/S:U/C:H/I:H/A:H
+
+
+### CVE-2022-41078:	Microsoft Exchange ApprovedApplication Exposed Dangerous Method NTLM Relay Vulnerability
 
 	CVSS:8.8 AV:N/AC:L/PR:L/UI:N/S:U/C:H/I:H/A:H
 
