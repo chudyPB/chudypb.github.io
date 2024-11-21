@@ -15,10 +15,13 @@ Before: Penetration Tester (consultant and internal), network traffic analysis
 ## Selected Conference Talks
 
 ### WarCon 2024 - Avalanche of Pwns for Ivanti Avalanche
-* Slides - soon
+* [Slides](https://github.com/thezdi/presentations/blob/main/2024_WarCon/Avalanche_WarCon24.pdf)
+<br />
 
 ### OffensiveCon 2024 - Half Measures and Full Compromise: Exploiting Microsoft Exchange PowerShell Remoting
 * [Video](https://www.youtube.com/watch?v=AxNO2iA2fAg)
+* [Slides](https://github.com/thezdi/presentations/blob/main/2024_OffensiveCon/Exchange_OffensiveCon24.pdf)
+<br />
 
 ### Hexacon 2023 - Exploiting Hardened .NET Deserialization: New Exploitation Ideas and Abuse of Insecure Serialization
 * [Video](https://www.youtube.com/watch?v=_CJmUh0_uOM)
@@ -99,7 +102,7 @@ Before: Penetration Tester (consultant and internal), network traffic analysis
 
 <br />
 
-## Vulnerabilities (updated on 17 Nov, 2024)
+## Vulnerabilities (updated on 21 Nov, 2024)
 
 ### CVE-2024-50330:	Ivanti Endpoint Manager GetComputerID SQL Injection Remote Code Execution Vulnerability
 
