@@ -64,6 +64,8 @@ Before: Penetration Tester (consultant and internal), network traffic analysis
 
 [EXPLOITING EXCHANGE POWERSHELL AFTER PROXYNOTSHELL: PART 4 – NO ARGUMENT CONSTRUCTOR](https://www.zerodayinitiative.com/blog/2024/9/25/exploiting-exchange-powershell-after-proxynotshell-part-4-no-argument-constructor)
 
+[SOLARWINDS ACCESS RIGHTS MANAGER: ONE VULNERABILITY TO LPE THEM ALL](https://www.zerodayinitiative.com/blog/2024/12/11/solarwinds-access-rights-manager-one-vulnerability-to-lpe-them-all)
+
 <br />
 
 ## Selected Achievements/Awards
@@ -102,7 +104,7 @@ Before: Penetration Tester (consultant and internal), network traffic analysis
 
 <br />
 
-## Vulnerabilities (updated on 21 Nov, 2024)
+## Vulnerabilities (updated on 19 Dec, 2024)
 
 ### CVE-2024-50330:	Ivanti Endpoint Manager GetComputerID SQL Injection Remote Code Execution Vulnerability
 
