@@ -1,8 +1,8 @@
 # Piotr Bazydło (chudy)
 
-Now: Vulnerability Researcher at Trend Micro Zero Day Initiative
+Now: Principal Vulnerability Researcher at watchTowr
 
-Before: Penetration Tester (consultant and internal), network traffic analysis
+Before: vulnerability researcher at Trend Micro Zero Day Initiative, penetration testing (consultant and internal), network traffic analysis
 
 **Twitter**: [@chudypb](https://twitter.com/chudyPB)
 
