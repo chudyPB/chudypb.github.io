@@ -21,6 +21,7 @@ Before: vulnerability researcher at Trend Micro Zero Day Initiative, penetration
 ### OffensiveCon 2024 - Half Measures and Full Compromise: Exploiting Microsoft Exchange PowerShell Remoting
 * [Video](https://www.youtube.com/watch?v=AxNO2iA2fAg)
 * [Slides](https://github.com/thezdi/presentations/blob/main/2024_OffensiveCon/Exchange_OffensiveCon24.pdf)
+* [Full summary(video, slides, blogs)](https://chudypb.github.io/exchange-powershell.md)
 <br />
 
 ### Hexacon 2023 - Exploiting Hardened .NET Deserialization: New Exploitation Ideas and Abuse of Insecure Serialization
