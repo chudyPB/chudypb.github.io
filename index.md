@@ -2,7 +2,7 @@
 
 Now: Principal Vulnerability Researcher at watchTowr
 
-Before: vulnerability researcher at Trend Micro Zero Day Initiative, penetration testing (consultant and internal), network traffic analysis
+Before: Vulenrability Researcher at Trend Micro Zero Day Initiative, Penetration Tester (consultant and internal), network traffic analysis
 
 **Twitter**: [@chudypb](https://twitter.com/chudyPB)
 
@@ -105,7 +105,42 @@ Before: vulnerability researcher at Trend Micro Zero Day Initiative, penetration
 
 <br />
 
-## Vulnerabilities (updated on 19 Dec, 2024)
+## Vulnerabilities (updated on 21 Jan, 2025)
+
+### CVE-2024-13164:	Ivanti Endpoint Manager AlertService Uninitialized Memory Information Disclosure Vulnerability
+
+	CVSS:6.2 AV:L/AC:L/PR:N/UI:N/S:U/C:H/I:N/A:N
+
+
+### CVE-2024-13165:	Ivanti Endpoint Manager Improper Input Validation AlertService Denial-of-Service Vulnerability
+
+	CVSS:7.5 AV:N/AC:L/PR:N/UI:N/S:U/C:N/I:N/A:H
+
+
+### CVE-2024-13166:	Ivanti Endpoint Manager AlertService Improper Input Validation Denial-of-Service Vulnerability
+
+	CVSS:7.5 AV:N/AC:L/PR:N/UI:N/S:U/C:N/I:N/A:H
+
+
+### CVE-2024-13167:	Ivanti Endpoint Manager AlertService Improper Input Validation Denial-of-Service Vulnerability
+
+	CVSS:7.5 AV:N/AC:L/PR:N/UI:N/S:U/C:N/I:N/A:H
+
+
+### CVE-2024-13168:	Ivanti Endpoint Manager AlertService Improper Input Validation Denial-of-Service Vulnerability
+
+	CVSS:7.5 AV:N/AC:L/PR:N/UI:N/S:U/C:N/I:N/A:H
+
+
+### CVE-2024-13169:	Ivanti Endpoint Manager AlertService Type Confusion Information Disclosure Vulnerability
+
+	CVSS:5.5 AV:L/AC:L/PR:L/UI:N/S:U/C:H/I:N/A:N
+
+
+### CVE-2024-13170:	Ivanti Endpoint Manager AlertService Improper Input Validation Denial-of-Service Vulnerability
+
+	CVSS:7.5 AV:N/AC:L/PR:N/UI:N/S:U/C:N/I:N/A:H
+
 
 ### CVE-2024-50330:	Ivanti Endpoint Manager GetComputerID SQL Injection Remote Code Execution Vulnerability
 
