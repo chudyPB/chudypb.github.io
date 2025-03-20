@@ -41,31 +41,35 @@ Before: Vulenrability Researcher at Trend Micro Zero Day Initiative, Penetration
 
 ## Blog Posts
 
-[RIDING THE INFORAIL TO EXPLOIT IVANTI AVALANCHE: PART 1](https://www.zerodayinitiative.com/blog/2022/7/19/riding-the-inforail-to-exploit-ivanti-avalanche)
+[Riding the Inforail to Exploit Ivanti Avalanche: Part 1](https://www.zerodayinitiative.com/blog/2022/7/19/riding-the-inforail-to-exploit-ivanti-avalanche)
 
-[RIDING THE INFORAIL TO EXPLOIT IVANTI AVALANCHE: PART 2](https://www.zerodayinitiative.com/blog/2022/9/7/riding-the-inforail-to-exploit-ivanti-avalanche-part-2)
+[Riding the Inforail to Exploit Ivanti Avalanche: Part 2](https://www.zerodayinitiative.com/blog/2022/9/7/riding-the-inforail-to-exploit-ivanti-avalanche-part-2)
 
-[VULNERABILITIES IN APACHE BATIK DEFAULT SECURITY CONTROLS – SSRF AND RCE THROUGH REMOTE CLASS LOADING](https://www.zerodayinitiative.com/blog/2022/10/28/vulnerabilities-in-apache-batik-default-security-controls-ssrf-and-rce-through-remote-class-loading)
+[Vulnerabilities in Apache Batik Default Security Controls - SSRF and RCE Through Remote Class Loading](https://www.zerodayinitiative.com/blog/2022/10/28/vulnerabilities-in-apache-batik-default-security-controls-ssrf-and-rce-through-remote-class-loading)
 
-[CONTROL YOUR TYPES OR GET PWNED: REMOTE CODE EXECUTION IN EXCHANGE POWERSHELL BACKEND](https://www.zerodayinitiative.com/blog/2022/11/14/control-your-types-or-get-pwned-remote-code-execution-in-exchange-powershell-backend)
+[Control Your Types or Get Pwned: Remote Code Execution in Exchange PowerShell Backend](https://www.zerodayinitiative.com/blog/2022/11/14/control-your-types-or-get-pwned-remote-code-execution-in-exchange-powershell-backend)
 
-[PWN2OWNING TWO HOSTS AT THE SAME TIME: ABUSING INDUCTIVE AUTOMATION IGNITION’S CUSTOM DESERIALIZATION](https://www.zerodayinitiative.com/blog/2023/2/6/pwn2owning-two-hosts-at-the-same-time-abusing-inductive-automation-ignitions-custom-deserialization)
+[Pwn2Owning Two Hosts at the Same Time: Abusing Inductive Automation Ignition's Custom Deserialization](https://www.zerodayinitiative.com/blog/2023/2/6/pwn2owning-two-hosts-at-the-same-time-abusing-inductive-automation-ignitions-custom-deserialization)
 
-[FINDING DESERIALIZATION BUGS IN THE SOLARWINDS PLATFORM](https://www.zerodayinitiative.com/blog/2023/9/21/finding-deserialization-bugs-in-the-solarwind-platform)
+[Finding Deserialization Bugs in the SolarWinds Platform](https://www.zerodayinitiative.com/blog/2023/9/21/finding-deserialization-bugs-in-the-solarwind-platform)
 
-[UNPATCHED POWERFUL SSRF IN EXCHANGE OWA – GETTING RESPONSE THROUGH ATTACHMENTS](https://www.zerodayinitiative.com/blog/2023/11/1/unpatched-powerful-ssrf-in-exchange-owa-getting-response-through-attachments)
+[Unpatched Powerful SSRF in Exchange OWA - Getting Response Through Attachments](https://www.zerodayinitiative.com/blog/2023/11/1/unpatched-powerful-ssrf-in-exchange-owa-getting-response-through-attachments)
 
-[CVE-2024-30043: ABUSING URL PARSING CONFUSION TO EXPLOIT XXE ON SHAREPOINT SERVER AND CLOUD](https://www.zerodayinitiative.com/blog/2024/5/29/cve-2024-30043-abusing-url-parsing-confusion-to-exploit-xxe-on-sharepoint-server-and-cloud)
+[CVE-2024-30043: Abusing URL Parsing Confusion to Exploit XXE on SharePoint Server and Cloud](https://www.zerodayinitiative.com/blog/2024/5/29/cve-2024-30043-abusing-url-parsing-confusion-to-exploit-xxe-on-sharepoint-server-and-cloud)
 
-[EXPLOITING EXCHANGE POWERSHELL AFTER PROXYNOTSHELL: PART 1 - MULTIVALUEDPROPERTY](https://www.zerodayinitiative.com/blog/2024/9/4/exploiting-exchange-powershell-after-proxynotshell-part-1-multivaluedproperty)
+[Exploiting Exchange PowerShell After ProxyNotShell: Part 1 - MultiValuedProperty](https://www.zerodayinitiative.com/blog/2024/9/4/exploiting-exchange-powershell-after-proxynotshell-part-1-multivaluedproperty)
 
-[EXPLOITING EXCHANGE POWERSHELL AFTER PROXYNOTSHELL: PART 2 - APPROVEDAPPLICATIONCOLLECTION](https://www.zerodayinitiative.com/blog/2024/9/11/exploiting-exchange-powershell-after-proxynotshell-part-2-approvedapplicationcollection)
+[Exploiting Exchange PowerShell After ProxyNotShell: Part 2 - ApprovedApplicationCollection](https://www.zerodayinitiative.com/blog/2024/9/11/exploiting-exchange-powershell-after-proxynotshell-part-2-approvedapplicationcollection)
 
-[EXPLOITING EXCHANGE POWERSHELL AFTER PROXYNOTSHELL: PART 3 – DLL LOADING CHAIN FOR RCE](https://www.zerodayinitiative.com/blog/2024/9/18/exploiting-exchange-powershell-after-proxynotshell-part-3-dll-loading-chain-for-rce)
+[Exploiting Exchange PowerShell After ProxyNotShell: Part 3 – DLL Loading Chain for RCE](https://www.zerodayinitiative.com/blog/2024/9/18/exploiting-exchange-powershell-after-proxynotshell-part-3-dll-loading-chain-for-rce)
 
-[EXPLOITING EXCHANGE POWERSHELL AFTER PROXYNOTSHELL: PART 4 – NO ARGUMENT CONSTRUCTOR](https://www.zerodayinitiative.com/blog/2024/9/25/exploiting-exchange-powershell-after-proxynotshell-part-4-no-argument-constructor)
+[Exploiting Exchange PowerShell After ProxyNotShell: Part 4 – No Argument Constructor](https://www.zerodayinitiative.com/blog/2024/9/25/exploiting-exchange-powershell-after-proxynotshell-part-4-no-argument-constructor)
 
-[SOLARWINDS ACCESS RIGHTS MANAGER: ONE VULNERABILITY TO LPE THEM ALL](https://www.zerodayinitiative.com/blog/2024/12/11/solarwinds-access-rights-manager-one-vulnerability-to-lpe-them-all)
+[SolarWinds Access Rights Manager: One Vulnerability to LPE Them All](https://www.zerodayinitiative.com/blog/2024/12/11/solarwinds-access-rights-manager-one-vulnerability-to-lpe-them-all)
+
+[Bypassing Authentication Like It’s The ‘90s - Pre-Auth RCE Chain(s) in Kentico Xperience CMS](https://labs.watchtowr.com/bypassing-authentication-like-its-the-90s-pre-auth-rce-chain-s-in-kentico-xperience-cms/)
+
+[By Executive Order, We Are Banning Blacklists - Domain-Level RCE in Veeam Backup & Replication (CVE-2025-23120)](https://labs.watchtowr.com/by-executive-order-we-are-banning-blacklists-domain-level-rce-in-veeam-backup-replication-cve-2025-23120/)
 
 <br />
 
@@ -105,7 +109,32 @@ Before: Vulenrability Researcher at Trend Micro Zero Day Initiative, Penetration
 
 <br />
 
-## Vulnerabilities (updated on 21 Jan, 2025)
+## Vulnerabilities (updated on 20 Mar, 2025)
+
+### CVE-2025-23120:	Veeam Backup & Replication Deserialization of Untrusted Data Remote Code Execution Vulnerability
+
+	CVSS:9.9 AV:N/AC:L/PR:L/UI:N/S:C/C:H/I:H/A:H
+
+
+### CVE-2025-XXXX4:	Kentico Xperience CMS Cross-Site Scripting Vulnerability
+
+	CVSS:7.6 AV:N/AC:L/PR:N/UI:R/S:U/C:H/I:L/A:L
+
+
+### CVE-2025-XXXX3:	Kentico Xperience CMS Staging Service Authentication Bypass Vulnerability
+
+	CVSS:9.8 AV:N/AC:L/PR:N/UI:N/S:U/C:H/I:H/A:H
+
+
+### CVE-2025-XXXX2:	Kentico Xperience CMS Staging Service Directory Traversal Remote Code Execution Vulnerability
+
+	CVSS:7.2 AV:N/AC:L/PR:H/UI:N/S:U/C:H/I:H/A:H
+
+
+### CVE-2025-XXXX1:	Kentico Xperience CMS Staging Service Authentication Bypass Vulnerability
+
+	CVSS:9.8 AV:N/AC:L/PR:N/UI:N/S:U/C:H/I:H/A:H
+
 
 ### CVE-2024-13164:	Ivanti Endpoint Manager AlertService Uninitialized Memory Information Disclosure Vulnerability
 
