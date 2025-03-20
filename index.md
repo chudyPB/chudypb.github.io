@@ -1186,3 +1186,4 @@ Before: Vulenrability Researcher at Trend Micro Zero Day Initiative, Penetration
 	CVSS:4.3 AV:N/AC:L/PR:L/UI:N/S:U/C:L/I:N/A:N
 
 
+
