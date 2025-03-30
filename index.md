@@ -109,29 +109,34 @@ Before: Vulenrability Researcher at Trend Micro Zero Day Initiative, Penetration
 
 <br />
 
-## Vulnerabilities (updated on 20 Mar, 2025)
+## Vulnerabilities (updated on 30 Mar, 2025)
+
+### CVE-2025-2794:	Kentico Xperience CMS Denial-of-Service Vulnerability
+
+	CVSS:7.5 AV:N/AC:L/PR:N/UI:N/S:U/C:N/I:N/A:H
+
 
 ### CVE-2025-23120:	Veeam Backup & Replication Deserialization of Untrusted Data Remote Code Execution Vulnerability
 
 	CVSS:9.9 AV:N/AC:L/PR:L/UI:N/S:C/C:H/I:H/A:H
 
 
-### CVE-2025-XXXX4:	Kentico Xperience CMS Cross-Site Scripting Vulnerability
+### CVE-2025-2748:	Kentico Xperience CMS Cross-Site Scripting Vulnerability
 
 	CVSS:7.6 AV:N/AC:L/PR:N/UI:R/S:U/C:H/I:L/A:L
 
 
-### CVE-2025-XXXX3:	Kentico Xperience CMS Staging Service Authentication Bypass Vulnerability
+### CVE-2025-2747:	Kentico Xperience CMS Staging Service Authentication Bypass Vulnerability
 
 	CVSS:9.8 AV:N/AC:L/PR:N/UI:N/S:U/C:H/I:H/A:H
 
 
-### CVE-2025-XXXX2:	Kentico Xperience CMS Staging Service Directory Traversal Remote Code Execution Vulnerability
+### CVE-2025-2749:	Kentico Xperience CMS Staging Service Directory Traversal Remote Code Execution Vulnerability
 
 	CVSS:7.2 AV:N/AC:L/PR:H/UI:N/S:U/C:H/I:H/A:H
 
 
-### CVE-2025-XXXX1:	Kentico Xperience CMS Staging Service Authentication Bypass Vulnerability
+### CVE-2025-2746:	Kentico Xperience CMS Staging Service Authentication Bypass Vulnerability
 
 	CVSS:9.8 AV:N/AC:L/PR:N/UI:N/S:U/C:H/I:H/A:H
 
@@ -1184,6 +1189,5 @@ Before: Vulenrability Researcher at Trend Micro Zero Day Initiative, Penetration
 ### CVE-2020-6299:	SAP Netweaver Exposed Dangerous Method Information Disclosure Vulnerability
 
 	CVSS:4.3 AV:N/AC:L/PR:L/UI:N/S:U/C:L/I:N/A:N
-
 
 
