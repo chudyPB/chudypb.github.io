@@ -2,7 +2,7 @@
 
 Now: Principal Vulnerability Researcher at watchTowr
 
-Before: Vulenrability Researcher at Trend Micro Zero Day Initiative, Penetration Tester (consultant and internal), network traffic analysis
+Before: Vulnerability Researcher at Trend Micro Zero Day Initiative, Penetration Tester (consultant and internal), network traffic analysis
 
 **Twitter**: [@chudypb](https://twitter.com/chudyPB)
 
@@ -70,6 +70,8 @@ Before: Vulenrability Researcher at Trend Micro Zero Day Initiative, Penetration
 [Bypassing Authentication Like It’s The ‘90s - Pre-Auth RCE Chain(s) in Kentico Xperience CMS](https://labs.watchtowr.com/bypassing-authentication-like-its-the-90s-pre-auth-rce-chain-s-in-kentico-xperience-cms/)
 
 [By Executive Order, We Are Banning Blacklists - Domain-Level RCE in Veeam Backup & Replication (CVE-2025-23120)](https://labs.watchtowr.com/by-executive-order-we-are-banning-blacklists-domain-level-rce-in-veeam-backup-replication-cve-2025-23120/)
+
+[XSS To RCE By Abusing Custom File Handlers - Kentico Xperience CMS (CVE-2025-2748)](https://labs.watchtowr.com/xss-to-rce-by-abusing-custom-file-handlers-kentico-xperience-cms-cve-2025-2748/)
 
 <br />
 
