@@ -61,17 +61,19 @@ Before: Vulnerability Researcher at Trend Micro Zero Day Initiative, Penetration
 
 [Exploiting Exchange PowerShell After ProxyNotShell: Part 2 - ApprovedApplicationCollection](https://www.zerodayinitiative.com/blog/2024/9/11/exploiting-exchange-powershell-after-proxynotshell-part-2-approvedapplicationcollection)
 
-[Exploiting Exchange PowerShell After ProxyNotShell: Part 3 – DLL Loading Chain for RCE](https://www.zerodayinitiative.com/blog/2024/9/18/exploiting-exchange-powershell-after-proxynotshell-part-3-dll-loading-chain-for-rce)
+[Exploiting Exchange PowerShell After ProxyNotShell: Part 3 - DLL Loading Chain for RCE](https://www.zerodayinitiative.com/blog/2024/9/18/exploiting-exchange-powershell-after-proxynotshell-part-3-dll-loading-chain-for-rce)
 
-[Exploiting Exchange PowerShell After ProxyNotShell: Part 4 – No Argument Constructor](https://www.zerodayinitiative.com/blog/2024/9/25/exploiting-exchange-powershell-after-proxynotshell-part-4-no-argument-constructor)
+[Exploiting Exchange PowerShell After ProxyNotShell: Part 4 - No Argument Constructor](https://www.zerodayinitiative.com/blog/2024/9/25/exploiting-exchange-powershell-after-proxynotshell-part-4-no-argument-constructor)
 
 [SolarWinds Access Rights Manager: One Vulnerability to LPE Them All](https://www.zerodayinitiative.com/blog/2024/12/11/solarwinds-access-rights-manager-one-vulnerability-to-lpe-them-all)
 
-[Bypassing Authentication Like It’s The ‘90s - Pre-Auth RCE Chain(s) in Kentico Xperience CMS](https://labs.watchtowr.com/bypassing-authentication-like-its-the-90s-pre-auth-rce-chain-s-in-kentico-xperience-cms/)
+[Bypassing Authentication Like It's The '90s - Pre-Auth RCE Chain(s) in Kentico Xperience CMS](https://labs.watchtowr.com/bypassing-authentication-like-its-the-90s-pre-auth-rce-chain-s-in-kentico-xperience-cms/)
 
 [By Executive Order, We Are Banning Blacklists - Domain-Level RCE in Veeam Backup & Replication (CVE-2025-23120)](https://labs.watchtowr.com/by-executive-order-we-are-banning-blacklists-domain-level-rce-in-veeam-backup-replication-cve-2025-23120/)
 
 [XSS To RCE By Abusing Custom File Handlers - Kentico Xperience CMS (CVE-2025-2748)](https://labs.watchtowr.com/xss-to-rce-by-abusing-custom-file-handlers-kentico-xperience-cms-cve-2025-2748/)
+
+[Expression Payloads Meet Mayhem - Ivanti EPMM Unauth RCE Chain (CVE-2025-4427 and CVE-2025-4428)](https://labs.watchtowr.com/expression-payloads-meet-mayhem-cve-2025-4427-and-cve-2025-4428/)
 
 <br />
 
@@ -111,7 +113,17 @@ Before: Vulnerability Researcher at Trend Micro Zero Day Initiative, Penetration
 
 <br />
 
-## Vulnerabilities (updated on 30 Mar, 2025)
+## Vulnerabilities (updated on 18 May, 2025)
+
+### CVE-2025-3600:	Telerik UI for ASP.NET AJAX Unsafe Reflaction Denial-of-Service Vulnerability
+
+	CVSS:7.5 AV:N/AC:L/PR:N/UI:N/S:U/C:N/I:N/A:H
+
+
+### CVE-2025-32370:	Kentico Xperience CMS Cross-Site Scripting Vulnerability
+
+	CVSS:7.6 AV:N/AC:L/PR:N/UI:R/S:U/C:H/I:L/A:L
+
 
 ### CVE-2025-2794:	Kentico Xperience CMS Denial-of-Service Vulnerability
 
