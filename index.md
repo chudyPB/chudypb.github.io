@@ -113,7 +113,52 @@ Before: Vulnerability Researcher at Trend Micro Zero Day Initiative, Penetration
 
 <br />
 
-## Vulnerabilities (updated on 18 May, 2025)
+## Vulnerabilities (updated on 13 Jun, 2025)
+
+### CVE-2025-49218:	Trend Micro Endpoint Encryption ProcessWhereClause SQL Injection Privilege Escalation Vulnerability
+
+	CVSS:8.8 AV:N/AC:L/PR:L/UI:N/S:U/C:H/I:H/A:H
+
+
+### CVE-2025-49217:	Trend Micro Endpoint Encryption ValidateToken Deserialization of Untrusted Data Remote Code Execution Vulnerability
+
+	CVSS:8.1 AV:N/AC:H/PR:N/UI:N/S:U/C:H/I:H/A:H
+
+
+### CVE-2025-49216:	Trend Micro Endpoint Encryption DbAppDomain Authentication Bypass Vulnerability
+
+	CVSS:9.8 AV:N/AC:L/PR:N/UI:N/S:U/C:H/I:H/A:H
+
+
+### CVE-2025-49215:	Trend Micro Endpoint Encryption GetGroupFilteredUsers SQL Injection Privilege Escalation Vulnerability
+
+	CVSS:8.8 AV:N/AC:L/PR:L/UI:N/S:U/C:H/I:H/A:H
+
+
+### CVE-2025-49214:	Trend Micro Endpoint Encryption DeserializeFromBase64String Deserialization of Untrusted Data Remote Code Execution Vulnerability
+
+	CVSS:8.8 AV:N/AC:L/PR:L/UI:N/S:U/C:H/I:H/A:H
+
+
+### CVE-2025-49213:	Trend Micro Endpoint Encryption PolicyServerWindowsService Deserialization of Untrusted Data Remote Code Execution Vulnerability
+
+	CVSS:9.8 AV:N/AC:L/PR:N/UI:N/S:U/C:H/I:H/A:H
+
+
+### CVE-2025-49212:	Trend Micro Endpoint Encryption PolicyValueTableSerializationBinder Deserialization of Untrusted Data Remote Code Execution Vulnerability
+
+	CVSS:9.8 AV:N/AC:L/PR:N/UI:N/S:U/C:H/I:H/A:H
+
+
+### CVE-2025-49211:	Trend Micro Endpoint Encryption BuildEnterpriseSearchString SQL Injection Privilege Escalation Vulnerability
+
+	CVSS:8.8 AV:N/AC:L/PR:L/UI:N/S:U/C:H/I:H/A:H
+
+
+### CVE-2025-49220:	Trend Micro Apex Central ConvertFromJson Deserialization of Untrusted Data Remote Code Execution Vulnerability
+
+	CVSS:9.8 AV:N/AC:L/PR:N/UI:N/S:U/C:H/I:H/A:H
+
 
 ### CVE-2025-3600:	Telerik UI for ASP.NET AJAX Unsafe Reflaction Denial-of-Service Vulnerability
 
