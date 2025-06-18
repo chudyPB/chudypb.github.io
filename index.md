@@ -75,6 +75,8 @@ Before: Vulnerability Researcher at Trend Micro Zero Day Initiative, Penetration
 
 [Expression Payloads Meet Mayhem - Ivanti EPMM Unauth RCE Chain (CVE-2025-4427 and CVE-2025-4428)](https://labs.watchtowr.com/expression-payloads-meet-mayhem-cve-2025-4427-and-cve-2025-4428/)
 
+[Is b For Backdoor? Pre-Auth RCE Chain In Sitecore Experience Platform](https://labs.watchtowr.com/is-b-for-backdoor-pre-auth-rce-chain-in-sitecore-experience-platform/)
+
 <br />
 
 ## Selected Achievements/Awards
@@ -97,7 +99,9 @@ Before: Vulnerability Researcher at Trend Micro Zero Day Initiative, Penetration
 
 * Remote Code Execution through serialization (CVE-2022-47504, CVE-2023-1139 and CVE-2023-1145).
 
-* .NET deserialization/serialization research and commits to ysoserial.net (5 new gadgets in main line + 3 plugins).
+* .NET deserialization/serialization research and commits to ysoserial.net (new gadgets and plugins).
+
+* Pre-auth RCE chains on enterprise CMS solutions: Sitecore Experience and Kentico Xperience.
 
 * Entire SolarWinds Orion Platform (and its modules) research and deserialization issues in SolarWinds.
 
@@ -113,7 +117,27 @@ Before: Vulnerability Researcher at Trend Micro Zero Day Initiative, Penetration
 
 <br />
 
-## Vulnerabilities (updated on 13 Jun, 2025)
+## Vulnerabilities (updated on 18 Jun, 2025)
+
+### CVE-2025-23121:	Veeam Backup & Replication Deserialization of Untrusted Data Remote Code Execution Vulnerability
+
+	CVSS:9.9 AV:N/AC:L/PR:L/UI:N/S:C/C:H/I:H/A:H
+
+
+### CVE-2025-34509:	Sitecore Experience Hard-coded Credentials Authentication Bypass Vulnerability
+
+	CVSS:8.2 AV:N/AC:L/PR:N/UI:N/S:U/C:H/I:L/A:N
+
+
+### CVE-2025-34510:	Sitecore Experience Upload2 Directory Traversal Remote Code Execution Vulnerability
+
+	CVSS:8.8 AV:N/AC:L/PR:L/UI:N/S:U/C:H/I:H/A:H
+
+
+### CVE-2025-34511:	Sitecore Experience PowerShell Extensions Unrestricted File Upload Remote Code Execution Vulnerability
+
+	CVSS:8.8 AV:N/AC:L/PR:L/UI:N/S:U/C:H/I:H/A:H
+
 
 ### CVE-2025-49218:	Trend Micro Endpoint Encryption ProcessWhereClause SQL Injection Privilege Escalation Vulnerability
 
