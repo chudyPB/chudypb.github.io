@@ -117,7 +117,22 @@ Before: Vulnerability Researcher at Trend Micro Zero Day Initiative, Penetration
 
 <br />
 
-## Vulnerabilities (updated on 18 Jun, 2025)
+## Vulnerabilities (updated on 30 Jun, 2025)
+
+### CVE-2025-6811:	(0Day) Mescius ActiveReports.NET TypeResolutionService Deserialization of Untrusted Data Remote Code Execution Vulnerability
+
+	CVSS:9.8 AV:N/AC:L/PR:N/UI:N/S:U/C:H/I:H/A:H
+
+
+### CVE-2025-6445:	ServiceStack FindType Directory Traversal Remote Code Execution Vulnerability
+
+	CVSS:8.1 AV:N/AC:H/PR:N/UI:N/S:U/C:H/I:H/A:H
+
+
+### CVE-2025-6444:	ServiceStack GetErrorResponse Improper Input Validation NTLM Relay Vulnerability
+
+	CVSS:5.9 AV:N/AC:H/PR:N/UI:N/S:U/C:H/I:N/A:N
+
 
 ### CVE-2025-23121:	Veeam Backup & Replication Deserialization of Untrusted Data Remote Code Execution Vulnerability
 
