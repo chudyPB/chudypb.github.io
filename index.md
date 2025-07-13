@@ -117,7 +117,12 @@ Before: Vulnerability Researcher at Trend Micro Zero Day Initiative, Penetration
 
 <br />
 
-## Vulnerabilities (updated on 30 Jun, 2025)
+## Vulnerabilities (updated on 13 Jul, 2025)
+
+### CVE-2025-6771:	Ivanti Endpoint Manager Mobile (EPMM) Command Injection Remote Code Execution Vulnerability
+
+	CVSS:7.2 AV:N/AC:L/PR:H/UI:N/S:U/C:H/I:H/A:H
+
 
 ### CVE-2025-6811:	(0Day) Mescius ActiveReports.NET TypeResolutionService Deserialization of Untrusted Data Remote Code Execution Vulnerability
 
