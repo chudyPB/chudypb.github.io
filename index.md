@@ -77,6 +77,10 @@ Before: Vulnerability Researcher at Trend Micro Zero Day Initiative, Penetration
 
 [Is b For Backdoor? Pre-Auth RCE Chain In Sitecore Experience Platform](https://labs.watchtowr.com/is-b-for-backdoor-pre-auth-rce-chain-in-sitecore-experience-platform/)
 
+[Guess Who Would Be Stupid Enough To Rob The Same Vault Twice? Pre-Auth RCE Chains in Commvault](https://labs.watchtowr.com/guess-who-would-be-stupid-enough-to-rob-the-same-vault-twice-pre-auth-rce-chains-in-commvault/)
+
+[Cache Me If You Can (Sitecore Experience Platform Cache Poisoning to RCE)](https://labs.watchtowr.com/cache-me-if-you-can-sitecore-experience-platform-cache-poisoning-to-rce/)
+
 <br />
 
 ## Selected Achievements/Awards
@@ -117,7 +121,62 @@ Before: Vulnerability Researcher at Trend Micro Zero Day Initiative, Penetration
 
 <br />
 
-## Vulnerabilities (updated on 13 Jul, 2025)
+## Vulnerabilities (updated on 31 Aug, 2025)
+
+### CVE-2025-53693:	Sitecore Experience Platform Unsafe Reflection HTML Cache Poisoning Vulnerability
+
+	CVSS:8.2 AV:N/AC:L/PR:N/UI:N/S:U/C:N/I:H/A:L
+
+
+### CVE-2025-53691:	Sitecore Experience Platform Deserialization of Untrusted Data Remote Code Execution Vulnerability
+
+	CVSS:8.8 AV:N/AC:L/PR:L/UI:N/S:U/C:H/I:H/A:H
+
+
+### CVE-2025-53694:	Sitecore Experience Platform ItemServices Information Disclosure Vulnerability
+
+	CVSS:6.5 AV:N/AC:L/PR:L/UI:N/S:U/C:H/I:N/A:N
+
+
+### CVE-2025-53692:	Sitecore Experience Platform Cross-Site Scripting Vulnerability
+
+	CVSS:7.1 AV:N/AC:L/PR:N/UI:R/S:U/C:H/I:L/A:N
+
+
+### CVE-2025-57791:	Commvault Argument Injection Authentication Bypass Vulnerability
+
+	CVSS:9.8 AV:N/AC:L/PR:N/UI:N/S:U/C:H/I:H/A:H
+
+
+### CVE-2025-57790:	Commvault QCommands Directory Traversal Remote Code Execution Vulnerability
+
+	CVSS:7.2 AV:N/AC:L/PR:H/UI:N/S:U/C:H/I:H/A:H
+
+
+### CVE-2025-57788:	Commvault Improper Authorization Privilege Escalation Vulnerability
+
+	CVSS:8.8 AV:N/AC:L/PR:L/UI:N/S:U/C:H/I:H/A:H
+
+
+### ZDI-25-822:	(0Day) Microsoft SharePoint GetTransformer Unsafe Reflection Denial-of-Service Vulnerability
+
+	CVSS:6.5 AV:N/AC:L/PR:L/UI:N/S:U/C:N/I:N/A:H
+
+
+### ZDI-25-820:	(0Day) Microsoft SharePoint IsAuthorizedType Deserialization of Untrusted Data Information Disclosure and Denial-of-Service Vulnerability
+
+	CVSS:8.1 AV:N/AC:L/PR:L/UI:N/S:U/C:H/I:N/A:H
+
+
+### ZDI-25-813:	(0Day) Microsoft PowerShell TryModuleAutoLoading Directory Traversal Remote Code Execution Vulnerability
+
+	CVSS:7.5 AV:N/AC:H/PR:L/UI:N/S:U/C:H/I:H/A:H
+
+
+### ZDI-25-809:	(0Day) Microsoft Exchange PowerShell Exposed Dangerous Method NTLM Relay Vulnerability
+
+	CVSS:8.8 AV:N/AC:L/PR:L/UI:N/S:U/C:H/I:H/A:H
+
 
 ### CVE-2025-6771:	Ivanti Endpoint Manager Mobile (EPMM) Command Injection Remote Code Execution Vulnerability
 
@@ -144,17 +203,17 @@ Before: Vulnerability Researcher at Trend Micro Zero Day Initiative, Penetration
 	CVSS:9.9 AV:N/AC:L/PR:L/UI:N/S:C/C:H/I:H/A:H
 
 
-### CVE-2025-34509:	Sitecore Experience Hard-coded Credentials Authentication Bypass Vulnerability
+### CVE-2025-34509:	Sitecore Experience Platform Hard-coded Credentials Authentication Bypass Vulnerability
 
 	CVSS:8.2 AV:N/AC:L/PR:N/UI:N/S:U/C:H/I:L/A:N
 
 
-### CVE-2025-34510:	Sitecore Experience Upload2 Directory Traversal Remote Code Execution Vulnerability
+### CVE-2025-34510:	Sitecore Experience Platform Upload2 Directory Traversal Remote Code Execution Vulnerability
 
 	CVSS:8.8 AV:N/AC:L/PR:L/UI:N/S:U/C:H/I:H/A:H
 
 
-### CVE-2025-34511:	Sitecore Experience PowerShell Extensions Unrestricted File Upload Remote Code Execution Vulnerability
+### CVE-2025-34511:	Sitecore Experience Platform PowerShell Extensions Unrestricted File Upload Remote Code Execution Vulnerability
 
 	CVSS:8.8 AV:N/AC:L/PR:L/UI:N/S:U/C:H/I:H/A:H
 
