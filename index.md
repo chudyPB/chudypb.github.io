@@ -81,6 +81,10 @@ Before: Vulnerability Researcher at Trend Micro Zero Day Initiative, Penetration
 
 [Cache Me If You Can (Sitecore Experience Platform Cache Poisoning to RCE)](https://labs.watchtowr.com/cache-me-if-you-can-sitecore-experience-platform-cache-poisoning-to-rce/)
 
+[You Already Have Our Personal Data, Take Our Phone Calls Too (FreePBX CVE-2025-57819)](https://labs.watchtowr.com/you-already-have-our-personal-data-take-our-phone-calls-too-freepbx-cve-2025-57819/)
+
+[Is This Bad? This Feels Bad. (Fortra GoAnywhere CVE-2025-10035)](https://labs.watchtowr.com/is-this-bad-this-feels-bad-goanywhere-cve-2025-10035/)
+
 <br />
 
 ## Selected Achievements/Awards
@@ -121,7 +125,12 @@ Before: Vulnerability Researcher at Trend Micro Zero Day Initiative, Penetration
 
 <br />
 
-## Vulnerabilities (updated on 31 Aug, 2025)
+## Vulnerabilities (updated on 29 Sep, 2025)
+
+### ZDI-25-892:	Microsoft .NET IsTypeAuthorized Deserialization of Untrusted Data Denial-of-Service Vulnerability
+
+	CVSS:7.5 AV:N/AC:L/PR:N/UI:N/S:U/C:N/I:N/A:H
+
 
 ### CVE-2025-53693:	Sitecore Experience Platform Unsafe Reflection HTML Cache Poisoning Vulnerability
 
