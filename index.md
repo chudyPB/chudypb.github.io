@@ -85,6 +85,8 @@ Before: Vulnerability Researcher at Trend Micro Zero Day Initiative, Penetration
 
 [Is This Bad? This Feels Bad. (Fortra GoAnywhere CVE-2025-10035)](https://labs.watchtowr.com/is-this-bad-this-feels-bad-goanywhere-cve-2025-10035/)
 
+[More Than DoS (Progress Telerik UI for ASP.NET AJAX Unsafe Reflection CVE-2025-3600)](https://labs.watchtowr.com/more-than-dos-progress-telerik-ui-for-asp-net-ajax-unsafe-reflection-cve-2025-3600/)
+
 <br />
 
 ## Selected Achievements/Awards
