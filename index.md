@@ -14,6 +14,15 @@ Before: Vulnerability Researcher at Trend Micro Zero Day Initiative, Penetration
 
 ## Selected Conference Talks
 
+### BlackHat EU 2025 - SOAPwn: Pwning .NET Framework Applications Through HTTP Client Proxies And WSDL
+* [Slides](http://i.blackhat.com/BH-EU-25/eu-25-Bazydlo-SOAPwn.pdf)
+* [Whitepaper](http://i.blackhat.com/BH-EU-25/eu-25-Bazydlo-SOAPwn-wp.pdf)
+<br />
+
+### REDACTED - More Than DoS (CVE-2025-3600)
+* [Blog](https://labs.watchtowr.com/more-than-dos-progress-telerik-ui-for-asp-net-ajax-unsafe-reflection-cve-2025-3600/)
+<br />
+
 ### WarCon 2024 - Avalanche of Pwns for Ivanti Avalanche
 * [Slides](https://github.com/thezdi/presentations/blob/main/2024_WarCon/Avalanche_WarCon24.pdf)
 <br />
@@ -26,7 +35,7 @@ Before: Vulnerability Researcher at Trend Micro Zero Day Initiative, Penetration
 
 ### Hexacon 2023 - Exploiting Hardened .NET Deserialization: New Exploitation Ideas and Abuse of Insecure Serialization
 * [Video](https://www.youtube.com/watch?v=_CJmUh0_uOM)
-* [White paper](https://github.com/thezdi/presentations/blob/main/2023_Hexacon/whitepaper-net-deser.pdf)
+* [Whitepaper](https://github.com/thezdi/presentations/blob/main/2023_Hexacon/whitepaper-net-deser.pdf)
 <br />
 
 ### DefCamp 2021 - Penetration Testing Management - Problems in Large Corporations
@@ -41,51 +50,53 @@ Before: Vulnerability Researcher at Trend Micro Zero Day Initiative, Penetration
 
 ## Blog Posts
 
-[Riding the Inforail to Exploit Ivanti Avalanche: Part 1](https://www.zerodayinitiative.com/blog/2022/7/19/riding-the-inforail-to-exploit-ivanti-avalanche)
+[(ZDI) Riding the Inforail to Exploit Ivanti Avalanche: Part 1](https://www.zerodayinitiative.com/blog/2022/7/19/riding-the-inforail-to-exploit-ivanti-avalanche)
 
-[Riding the Inforail to Exploit Ivanti Avalanche: Part 2](https://www.zerodayinitiative.com/blog/2022/9/7/riding-the-inforail-to-exploit-ivanti-avalanche-part-2)
+[(ZDI) Riding the Inforail to Exploit Ivanti Avalanche: Part 2](https://www.zerodayinitiative.com/blog/2022/9/7/riding-the-inforail-to-exploit-ivanti-avalanche-part-2)
 
-[Vulnerabilities in Apache Batik Default Security Controls - SSRF and RCE Through Remote Class Loading](https://www.zerodayinitiative.com/blog/2022/10/28/vulnerabilities-in-apache-batik-default-security-controls-ssrf-and-rce-through-remote-class-loading)
+[(ZDI) Vulnerabilities in Apache Batik Default Security Controls - SSRF and RCE Through Remote Class Loading](https://www.zerodayinitiative.com/blog/2022/10/28/vulnerabilities-in-apache-batik-default-security-controls-ssrf-and-rce-through-remote-class-loading)
 
-[Control Your Types or Get Pwned: Remote Code Execution in Exchange PowerShell Backend](https://www.zerodayinitiative.com/blog/2022/11/14/control-your-types-or-get-pwned-remote-code-execution-in-exchange-powershell-backend)
+[(ZDI) Control Your Types or Get Pwned: Remote Code Execution in Exchange PowerShell Backend](https://www.zerodayinitiative.com/blog/2022/11/14/control-your-types-or-get-pwned-remote-code-execution-in-exchange-powershell-backend)
 
-[Pwn2Owning Two Hosts at the Same Time: Abusing Inductive Automation Ignition's Custom Deserialization](https://www.zerodayinitiative.com/blog/2023/2/6/pwn2owning-two-hosts-at-the-same-time-abusing-inductive-automation-ignitions-custom-deserialization)
+[(ZDI) Pwn2Owning Two Hosts at the Same Time: Abusing Inductive Automation Ignition's Custom Deserialization](https://www.zerodayinitiative.com/blog/2023/2/6/pwn2owning-two-hosts-at-the-same-time-abusing-inductive-automation-ignitions-custom-deserialization)
 
-[Finding Deserialization Bugs in the SolarWinds Platform](https://www.zerodayinitiative.com/blog/2023/9/21/finding-deserialization-bugs-in-the-solarwind-platform)
+[(ZDI) Finding Deserialization Bugs in the SolarWinds Platform](https://www.zerodayinitiative.com/blog/2023/9/21/finding-deserialization-bugs-in-the-solarwind-platform)
 
-[Unpatched Powerful SSRF in Exchange OWA - Getting Response Through Attachments](https://www.zerodayinitiative.com/blog/2023/11/1/unpatched-powerful-ssrf-in-exchange-owa-getting-response-through-attachments)
+[(ZDI) Unpatched Powerful SSRF in Exchange OWA - Getting Response Through Attachments](https://www.zerodayinitiative.com/blog/2023/11/1/unpatched-powerful-ssrf-in-exchange-owa-getting-response-through-attachments)
 
-[CVE-2024-30043: Abusing URL Parsing Confusion to Exploit XXE on SharePoint Server and Cloud](https://www.zerodayinitiative.com/blog/2024/5/29/cve-2024-30043-abusing-url-parsing-confusion-to-exploit-xxe-on-sharepoint-server-and-cloud)
+[(ZDI) CVE-2024-30043: Abusing URL Parsing Confusion to Exploit XXE on SharePoint Server and Cloud](https://www.zerodayinitiative.com/blog/2024/5/29/cve-2024-30043-abusing-url-parsing-confusion-to-exploit-xxe-on-sharepoint-server-and-cloud)
 
-[Exploiting Exchange PowerShell After ProxyNotShell: Part 1 - MultiValuedProperty](https://www.zerodayinitiative.com/blog/2024/9/4/exploiting-exchange-powershell-after-proxynotshell-part-1-multivaluedproperty)
+[(ZDI) Exploiting Exchange PowerShell After ProxyNotShell: Part 1 - MultiValuedProperty](https://www.zerodayinitiative.com/blog/2024/9/4/exploiting-exchange-powershell-after-proxynotshell-part-1-multivaluedproperty)
 
-[Exploiting Exchange PowerShell After ProxyNotShell: Part 2 - ApprovedApplicationCollection](https://www.zerodayinitiative.com/blog/2024/9/11/exploiting-exchange-powershell-after-proxynotshell-part-2-approvedapplicationcollection)
+[(ZDI) Exploiting Exchange PowerShell After ProxyNotShell: Part 2 - ApprovedApplicationCollection](https://www.zerodayinitiative.com/blog/2024/9/11/exploiting-exchange-powershell-after-proxynotshell-part-2-approvedapplicationcollection)
 
-[Exploiting Exchange PowerShell After ProxyNotShell: Part 3 - DLL Loading Chain for RCE](https://www.zerodayinitiative.com/blog/2024/9/18/exploiting-exchange-powershell-after-proxynotshell-part-3-dll-loading-chain-for-rce)
+[(ZDI) Exploiting Exchange PowerShell After ProxyNotShell: Part 3 - DLL Loading Chain for RCE](https://www.zerodayinitiative.com/blog/2024/9/18/exploiting-exchange-powershell-after-proxynotshell-part-3-dll-loading-chain-for-rce)
 
-[Exploiting Exchange PowerShell After ProxyNotShell: Part 4 - No Argument Constructor](https://www.zerodayinitiative.com/blog/2024/9/25/exploiting-exchange-powershell-after-proxynotshell-part-4-no-argument-constructor)
+[(ZDI) Exploiting Exchange PowerShell After ProxyNotShell: Part 4 - No Argument Constructor](https://www.zerodayinitiative.com/blog/2024/9/25/exploiting-exchange-powershell-after-proxynotshell-part-4-no-argument-constructor)
 
-[SolarWinds Access Rights Manager: One Vulnerability to LPE Them All](https://www.zerodayinitiative.com/blog/2024/12/11/solarwinds-access-rights-manager-one-vulnerability-to-lpe-them-all)
+[(ZDI) SolarWinds Access Rights Manager: One Vulnerability to LPE Them All](https://www.zerodayinitiative.com/blog/2024/12/11/solarwinds-access-rights-manager-one-vulnerability-to-lpe-them-all)
 
-[Bypassing Authentication Like It's The '90s - Pre-Auth RCE Chain(s) in Kentico Xperience CMS](https://labs.watchtowr.com/bypassing-authentication-like-its-the-90s-pre-auth-rce-chain-s-in-kentico-xperience-cms/)
+[(watchTowr) Bypassing Authentication Like It's The '90s - Pre-Auth RCE Chain(s) in Kentico Xperience CMS](https://labs.watchtowr.com/bypassing-authentication-like-its-the-90s-pre-auth-rce-chain-s-in-kentico-xperience-cms/)
 
-[By Executive Order, We Are Banning Blacklists - Domain-Level RCE in Veeam Backup & Replication (CVE-2025-23120)](https://labs.watchtowr.com/by-executive-order-we-are-banning-blacklists-domain-level-rce-in-veeam-backup-replication-cve-2025-23120/)
+[(watchTowr) By Executive Order, We Are Banning Blacklists - Domain-Level RCE in Veeam Backup & Replication (CVE-2025-23120)](https://labs.watchtowr.com/by-executive-order-we-are-banning-blacklists-domain-level-rce-in-veeam-backup-replication-cve-2025-23120/)
 
-[XSS To RCE By Abusing Custom File Handlers - Kentico Xperience CMS (CVE-2025-2748)](https://labs.watchtowr.com/xss-to-rce-by-abusing-custom-file-handlers-kentico-xperience-cms-cve-2025-2748/)
+[(watchTowr) XSS To RCE By Abusing Custom File Handlers - Kentico Xperience CMS (CVE-2025-2748)](https://labs.watchtowr.com/xss-to-rce-by-abusing-custom-file-handlers-kentico-xperience-cms-cve-2025-2748/)
 
-[Expression Payloads Meet Mayhem - Ivanti EPMM Unauth RCE Chain (CVE-2025-4427 and CVE-2025-4428)](https://labs.watchtowr.com/expression-payloads-meet-mayhem-cve-2025-4427-and-cve-2025-4428/)
+[(watchTowr) Expression Payloads Meet Mayhem - Ivanti EPMM Unauth RCE Chain (CVE-2025-4427 and CVE-2025-4428)](https://labs.watchtowr.com/expression-payloads-meet-mayhem-cve-2025-4427-and-cve-2025-4428/)
 
-[Is b For Backdoor? Pre-Auth RCE Chain In Sitecore Experience Platform](https://labs.watchtowr.com/is-b-for-backdoor-pre-auth-rce-chain-in-sitecore-experience-platform/)
+[(watchTowr) Is b For Backdoor? Pre-Auth RCE Chain In Sitecore Experience Platform](https://labs.watchtowr.com/is-b-for-backdoor-pre-auth-rce-chain-in-sitecore-experience-platform/)
 
-[Guess Who Would Be Stupid Enough To Rob The Same Vault Twice? Pre-Auth RCE Chains in Commvault](https://labs.watchtowr.com/guess-who-would-be-stupid-enough-to-rob-the-same-vault-twice-pre-auth-rce-chains-in-commvault/)
+[(watchTowr) Guess Who Would Be Stupid Enough To Rob The Same Vault Twice? Pre-Auth RCE Chains in Commvault](https://labs.watchtowr.com/guess-who-would-be-stupid-enough-to-rob-the-same-vault-twice-pre-auth-rce-chains-in-commvault/)
 
-[Cache Me If You Can (Sitecore Experience Platform Cache Poisoning to RCE)](https://labs.watchtowr.com/cache-me-if-you-can-sitecore-experience-platform-cache-poisoning-to-rce/)
+[(watchTowr) Cache Me If You Can (Sitecore Experience Platform Cache Poisoning to RCE)](https://labs.watchtowr.com/cache-me-if-you-can-sitecore-experience-platform-cache-poisoning-to-rce/)
 
-[You Already Have Our Personal Data, Take Our Phone Calls Too (FreePBX CVE-2025-57819)](https://labs.watchtowr.com/you-already-have-our-personal-data-take-our-phone-calls-too-freepbx-cve-2025-57819/)
+[(watchTowr) You Already Have Our Personal Data, Take Our Phone Calls Too (FreePBX CVE-2025-57819)](https://labs.watchtowr.com/you-already-have-our-personal-data-take-our-phone-calls-too-freepbx-cve-2025-57819/)
 
-[Is This Bad? This Feels Bad. (Fortra GoAnywhere CVE-2025-10035)](https://labs.watchtowr.com/is-this-bad-this-feels-bad-goanywhere-cve-2025-10035/)
+[(watchTowr) Is This Bad? This Feels Bad. (Fortra GoAnywhere CVE-2025-10035)](https://labs.watchtowr.com/is-this-bad-this-feels-bad-goanywhere-cve-2025-10035/)
 
-[More Than DoS (Progress Telerik UI for ASP.NET AJAX Unsafe Reflection CVE-2025-3600)](https://labs.watchtowr.com/more-than-dos-progress-telerik-ui-for-asp-net-ajax-unsafe-reflection-cve-2025-3600/)
+[(watchTowr) More Than DoS (Progress Telerik UI for ASP.NET AJAX Unsafe Reflection CVE-2025-3600)](https://labs.watchtowr.com/more-than-dos-progress-telerik-ui-for-asp-net-ajax-unsafe-reflection-cve-2025-3600/)
+
+[(watchTowr) SOAPwn: Pwning .NET Framework Applications Through HTTP Client Proxies And WSDL](https://labs.watchtowr.com/soapwn-pwning-net-framework-applications-through-http-client-proxies-and-wsdl/)
 
 <br />
 
@@ -107,6 +118,8 @@ Before: Vulnerability Researcher at Trend Micro Zero Day Initiative, Penetration
 
 * Microsoft SharePoint: several vulnerabilities, including RCE (CVE-2024-38018).
 
+* SOAPwn research: pwning .NET Framework applications through HTTP client proxies and WSDL imports.
+
 * Remote Code Execution through serialization (CVE-2022-47504, CVE-2023-1139 and CVE-2023-1145).
 
 * .NET deserialization/serialization research and commits to ysoserial.net (new gadgets and plugins).
@@ -127,7 +140,37 @@ Before: Vulnerability Researcher at Trend Micro Zero Day Initiative, Penetration
 
 <br />
 
-## Vulnerabilities (updated on 29 Sep, 2025)
+## Vulnerabilities (updated on 15 Dec, 2025)
+
+### CVE-2025-34395:	Barracuda Service Center RMM Directory Traversal Arbitrary File Read Vulnerability
+
+	CVSS:7.5 AV:N/AC:L/PR:N/UI:N/S:U/C:H/I:N/A:N
+
+
+### CVE-2025-34393:	Barracuda Service Center RMM Unsafe Reflection Remote Code Execution Vulnerability
+
+	CVSS:10.0 AV:N/AC:L/PR:N/UI:N/S:C/C:H/I:H/A:H
+
+
+### CVE-2025-34394:	Barracuda Service Center RMM Deserialization of Untrusted Data Remote Code Execution Vulnerability
+
+	CVSS:10.0 AV:N/AC:L/PR:N/UI:N/S:C/C:H/I:H/A:H
+
+
+### CVE-2025-34392:	Barracuda Service Center RMM WSDL Import Remote Code Execution Vulnerability
+
+	CVSS:10.0 AV:N/AC:L/PR:N/UI:N/S:C/C:H/I:H/A:H
+
+
+### CVE-2025-13659:	Ivanti Endpoint Manager WSDL Import Remote Code Execution Vulnerability
+
+	CVSS:8.8 AV:N/AC:L/PR:N/UI:R/S:U/C:H/I:H/A:H
+
+
+### CVE-2025-48984:	Veeam Backup & Replication Deserialization of Untrusted Data Remote Code Execution Vulnerability
+
+	CVSS:9.9 AV:N/AC:L/PR:L/UI:N/S:C/C:H/I:H/A:H
+
 
 ### ZDI-25-892:	Microsoft .NET IsTypeAuthorized Deserialization of Untrusted Data Denial-of-Service Vulnerability
 
