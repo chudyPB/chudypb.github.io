@@ -98,6 +98,8 @@ Before: Vulnerability Researcher at Trend Micro Zero Day Initiative, Penetration
 
 [(watchTowr) SOAPwn: Pwning .NET Framework Applications Through HTTP Client Proxies And WSDL](https://labs.watchtowr.com/soapwn-pwning-net-framework-applications-through-http-client-proxies-and-wsdl/)
 
+[(watchTowr) Do Smart People Ever Say They’re Smart? (SmarterTools SmarterMail Pre-Auth RCE CVE-2025-52691)](https://labs.watchtowr.com/do-smart-people-ever-say-theyre-smart-smartertools-smartermail-pre-auth-rce-cve-2025-52691/)
+
 <br />
 
 ## Selected Achievements/Awards
@@ -140,7 +142,22 @@ Before: Vulnerability Researcher at Trend Micro Zero Day Initiative, Penetration
 
 <br />
 
-## Vulnerabilities (updated on 15 Dec, 2025)
+## Vulnerabilities (updated on 19 Jan, 2026)
+
+### CVE-2026-20951:	Microsoft SharePoint Remote Code Execution Vulnerability
+
+	CVSS:7.8 AV:L/AC:L/PR:N/UI:R/S:U/C:H/I:H/A:H
+
+
+### CVE-2025-68924:	Umbraco CMS WSDL Import Remote Code Execution Vulnerability
+
+	CVSS:9.9 AV:N/AC:L/PR:L/UI:N/S:C/C:H/I:H/A:H
+
+
+### CVE-2026-0601:	Sonatype Nexus Repository Cross-Site Scripting Vulnerability
+
+	CVSS:7.1 AV:N/AC:L/PR:N/UI:R/S:U/C:H/I:L/A:N
+
 
 ### CVE-2025-34395:	Barracuda Service Center RMM Directory Traversal Arbitrary File Read Vulnerability
 
