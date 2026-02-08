@@ -100,6 +100,10 @@ Before: Vulnerability Researcher at Trend Micro Zero Day Initiative, Penetration
 
 [(watchTowr) Do Smart People Ever Say They’re Smart? (SmarterTools SmarterMail Pre-Auth RCE CVE-2025-52691)](https://labs.watchtowr.com/do-smart-people-ever-say-theyre-smart-smartertools-smartermail-pre-auth-rce-cve-2025-52691/)
 
+[(watchTowr) Attackers With Decompilers Strike Again (SmarterTools SmarterMail WT-2026-0001 Auth Bypass)](https://labs.watchtowr.com/attackers-with-decompilers-strike-again-smartertools-smartermail-wt-2026-0001-auth-bypass/)
+
+[(watchTowr) Someone Knows Bash Far Too Well, And We Love It (Ivanti EPMM Pre-Auth RCEs CVE-2026-1281 & CVE-2026-1340)](https://labs.watchtowr.com/someone-knows-bash-far-too-well-and-we-love-it-ivanti-epmm-pre-auth-rces-cve-2026-1281-cve-2026-1340/)
+
 <br />
 
 ## Selected Achievements/Awards
@@ -111,6 +115,8 @@ Before: Vulnerability Researcher at Trend Micro Zero Day Initiative, Penetration
 * Microsoft Most Valuable Researcher 2023, 2024: [results-2023](https://msrc.microsoft.com/blog/2023/08/congratulations-to-the-msrc-2023-most-valuable-security-researchers/) [results-2024](https://msrc.microsoft.com/blog/2024/08/congratulations-to-the-msrc-2024-most-valuable-security-researchers/)
 
 * 2nd best web research of 2023 in PortSwigger "Top 10 Web Hacking Techniques of 2023" - Exploiting Hardened .NET Deserialization: [results](https://portswigger.net/research/top-10-web-hacking-techniques-of-2023)
+
+* 5th best web research of 2025 in PortSwigger "Top 10 Web Hacking Techniques of 2025" - SOAPwn: [results](https://portswigger.net/research/top-10-web-hacking-techniques-of-2025)
 
 <br />
 
@@ -142,7 +148,17 @@ Before: Vulnerability Researcher at Trend Micro Zero Day Initiative, Penetration
 
 <br />
 
-## Vulnerabilities (updated on 19 Jan, 2026)
+## Vulnerabilities (updated on 08 Feb, 2026)
+
+### CVE-2026-24423:	SmarterTools SmarterMail Remote Code Execution Vulnerability
+
+	CVSS:10.0 AV:N/AC:L/PR:N/UI:N/S:C/C:H/I:H/A:H
+
+
+### CVE-2026-23760:	SmarterTools SmarterMail Authentication Bypass Vulnerability
+
+	CVSS:10.0 AV:N/AC:L/PR:N/UI:N/S:C/C:H/I:H/A:H
+
 
 ### CVE-2026-20951:	Microsoft SharePoint Remote Code Execution Vulnerability
 
