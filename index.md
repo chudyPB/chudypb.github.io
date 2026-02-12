@@ -148,7 +148,22 @@ Before: Vulnerability Researcher at Trend Micro Zero Day Initiative, Penetration
 
 <br />
 
-## Vulnerabilities (updated on 08 Feb, 2026)
+## Vulnerabilities (updated on 12 Feb, 2026)
+
+### CVE-2026-40552:	SolarWinds Web Help Desk Authentication Bypass Vulnerability
+
+	CVSS:9.8 AV:N/AC:L/PR:N/UI:N/S:U/C:H/I:H/A:H
+
+
+### CVE-2026-40553:	SolarWinds Web Help Desk Deserialization of Untrusted Data Remote Code Execution Vulnerability
+
+	CVSS:9.8 AV:N/AC:L/PR:N/UI:N/S:U/C:H/I:H/A:H
+
+
+### CVE-2026-40554:	SolarWinds Web Help Desk Authentication Bypass Vulnerability
+
+	CVSS:9.8 AV:N/AC:L/PR:N/UI:N/S:U/C:H/I:H/A:H
+
 
 ### CVE-2026-24423:	SmarterTools SmarterMail Remote Code Execution Vulnerability
 
