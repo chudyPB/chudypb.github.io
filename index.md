@@ -8,8 +8,6 @@ Before: Vulnerability Researcher at Trend Micro Zero Day Initiative, Penetration
 
 **Mastodon**: [@chudypb@infosec.exchange](https://infosec.exchange/@chudypb)
 
-**Linkedin**: [piotr-bazydlo](https://pl.linkedin.com/in/piotr-bazydlo)
-
 <br />
 
 ## Selected Conference Talks
@@ -104,6 +102,8 @@ Before: Vulnerability Researcher at Trend Micro Zero Day Initiative, Penetration
 
 [(watchTowr) Someone Knows Bash Far Too Well, And We Love It (Ivanti EPMM Pre-Auth RCEs CVE-2026-1281 & CVE-2026-1340)](https://labs.watchtowr.com/someone-knows-bash-far-too-well-and-we-love-it-ivanti-epmm-pre-auth-rces-cve-2026-1281-cve-2026-1340/)
 
+[(watchTowr) Buy A Help Desk, Bundle A Remote Access Solution? (SolarWinds Web Help Desk Pre-Auth RCE Chain(s))](https://labs.watchtowr.com/buy-a-help-desk-bundle-a-remote-access-solution-solarwinds-web-help-desk-pre-auth-rce-chain-s/)
+
 <br />
 
 ## Selected Achievements/Awards
@@ -148,7 +148,17 @@ Before: Vulnerability Researcher at Trend Micro Zero Day Initiative, Penetration
 
 <br />
 
-## Vulnerabilities (updated on 12 Feb, 2026)
+## Vulnerabilities (updated on 15 Mar, 2026)
+
+### CVE-2026-26337:	Hyland Alfresco Arbitrary File Read and Server-Side Request Forgery Vulnerability
+
+	CVSS:8.2 AV:N/AC:L/PR:N/UI:N/S:U/C:H/I:L/A:N
+
+
+### CVE-2026-26338:	Hyland Alfresco Argument Injection Remote Code Execution Vulnerability
+
+	CVSS:7.5 AV:N/AC:L/PR:N/UI:N/S:U/C:H/I:H/A:H
+
 
 ### CVE-2026-40552:	SolarWinds Web Help Desk Authentication Bypass Vulnerability
 
