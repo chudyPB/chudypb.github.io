@@ -8,6 +8,8 @@ Before: Vulnerability Researcher at Trend Micro Zero Day Initiative, Penetration
 
 **Mastodon**: [@chudypb@infosec.exchange](https://infosec.exchange/@chudypb)
 
+**Linkedin**: [piotr-bazydlo](https://pl.linkedin.com/in/piotr-bazydlo)
+
 <br />
 
 ## Selected Conference Talks
@@ -148,14 +150,24 @@ Before: Vulnerability Researcher at Trend Micro Zero Day Initiative, Penetration
 
 <br />
 
-## Vulnerabilities (updated on 15 Mar, 2026)
+## Vulnerabilities (updated on 16 Mar, 2026)
+
+### CVE-2026-26336:	Hyland Alfresco Arbitrary File Read Vulnerability
+
+	CVSS:7.5 AV:N/AC:L/PR:N/UI:N/S:U/C:H/I:N/A:N
+
 
 ### CVE-2026-26337:	Hyland Alfresco Arbitrary File Read and Server-Side Request Forgery Vulnerability
 
 	CVSS:8.2 AV:N/AC:L/PR:N/UI:N/S:U/C:H/I:L/A:N
 
 
-### CVE-2026-26338:	Hyland Alfresco Argument Injection Remote Code Execution Vulnerability
+### CVE-2026-26338:	Hyland Alfresco Server-Side Request Forgery Vulnerability
+
+	CVSS:6.5 AV:N/AC:L/PR:N/UI:N/S:U/C:L/I:L/A:N
+
+
+### CVE-2026-26339:	Hyland Alfresco Argument Injection Remote Code Execution Vulnerability
 
 	CVSS:7.5 AV:N/AC:L/PR:N/UI:N/S:U/C:H/I:H/A:H
 
