@@ -106,6 +106,8 @@ Before: Vulnerability Researcher at Trend Micro Zero Day Initiative, Penetration
 
 [(watchTowr) Buy A Help Desk, Bundle A Remote Access Solution? (SolarWinds Web Help Desk Pre-Auth RCE Chain(s))](https://labs.watchtowr.com/buy-a-help-desk-bundle-a-remote-access-solution-solarwinds-web-help-desk-pre-auth-rce-chain-s/)
 
+[(watchTowr) Why Use App-Level Auth When Every Database Has Auth? (Splunk Enterprise CVE-2026-20253 Pre-Auth RCE)](https://labs.watchtowr.com/why-use-app-level-auth-when-every-database-has-auth-splunk-enterprise-cve-2026-20253-pre-auth-rce/)
+
 <br />
 
 ## Selected Achievements/Awards
@@ -150,7 +152,27 @@ Before: Vulnerability Researcher at Trend Micro Zero Day Initiative, Penetration
 
 <br />
 
-## Vulnerabilities (updated on 16 Mar, 2026)
+## Vulnerabilities (updated on 22 Jun, 2026)
+
+### CVE-2026-3660:	IBM Jazz Server Authentication Bypass Vulnerability
+
+	CVSS:9.8 AV:N/AC:N/PR:N/UI:N/S:U/C:H/I:H/A:H
+
+
+### CVE-2026-4051:	IBM Jazz Server Remote Code Execution Vulnerability
+
+	CVSS:7.2 AV:N/AC:N/PR:H/UI:N/S:U/C:H/I:H/A:H
+
+
+### CVE-2026-3603:	IBM Jazz Server XML External Entity Processing Information Disclosure Vulnerability
+
+	CVSS:7.1 AV:N/AC:N/PR:L/UI:N/S:U/C:H/I:N/A:L
+
+
+### CVE-2026-40370:	Microsoft SQL Server Remote Code Execution Vulnerability
+
+	CVSS:8.8 AV:N/AC:N/PR:L/UI:N/S:U/C:H/I:H/A:H
+
 
 ### CVE-2026-26336:	Hyland Alfresco Arbitrary File Read Vulnerability
 
@@ -210,6 +232,11 @@ Before: Vulnerability Researcher at Trend Micro Zero Day Initiative, Penetration
 ### CVE-2026-0601:	Sonatype Nexus Repository Cross-Site Scripting Vulnerability
 
 	CVSS:7.1 AV:N/AC:L/PR:N/UI:R/S:U/C:H/I:L/A:N
+
+
+### CVE-2025-6811:	(0Day) Mescius ActiveReports.NET TypeResolutionService Deserialization of Untrusted Data Remote Code Execution Vulnerability
+
+	CVSS:9.8 AV:N/AC:L/PR:N/UI:N/S:U/C:H/I:H/A:H
 
 
 ### CVE-2025-34395:	Barracuda Service Center RMM Directory Traversal Arbitrary File Read Vulnerability
@@ -305,11 +332,6 @@ Before: Vulnerability Researcher at Trend Micro Zero Day Initiative, Penetration
 ### CVE-2025-6771:	Ivanti Endpoint Manager Mobile (EPMM) Command Injection Remote Code Execution Vulnerability
 
 	CVSS:7.2 AV:N/AC:L/PR:H/UI:N/S:U/C:H/I:H/A:H
-
-
-### CVE-2025-6811:	(0Day) Mescius ActiveReports.NET TypeResolutionService Deserialization of Untrusted Data Remote Code Execution Vulnerability
-
-	CVSS:9.8 AV:N/AC:L/PR:N/UI:N/S:U/C:H/I:H/A:H
 
 
 ### CVE-2025-6445:	ServiceStack FindType Directory Traversal Remote Code Execution Vulnerability
